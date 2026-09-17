@@ -4,7 +4,8 @@
 
 ## 固定开场（海外版，每条视频前 5 秒）
 
-- `Welcome to Linyi, China! I'm Dameon — your friend on the ground here.`
+- `Welcome to Linyi, China. I'm Damon — your guy on the ground.`
+- 中文：**欢迎来到中国临沂。我是 Damon——你在临沂当地的一线伙伴。**
 
 第二句按主题接：
 

@@ -1,7 +1,7 @@
 # backlog.md — 视频 Backlog v1
 
 > 由 ChatGPT 决策、WorkBuddy 录入（2026-09-16）。先放前 6 条，不扩到 30 条。
-> 不给视频编造数据；脚本由 ChatGPT 根据知识库与 Dameon 提供的真实资源统一撰写。
+> 不给视频编造数据；脚本由 ChatGPT 根据知识库与 Damon 提供的真实资源统一撰写。
 > 状态标签：`needs-script` / `needs-market` / `needs-market-data` / `needs-supplier` / `waiting-real-case` / `waiting-real-qc-case`。
 
 ---
@@ -11,7 +11,7 @@
 **You've Heard of Yiwu. But Have You Heard of Linyi?**
 
 - 目的：第一次让海外观众认识临沂。
-- 内容：临沂是什么 / 商贸市场 / 物流 / 国际采购商 / Dameon 是谁 / Dameon 为什么开始拍这个账号。
+- 内容：临沂是什么 / 商贸市场 / 物流 / 国际采购商 / Damon 是谁 / Damon 为什么开始拍这个账号。
 - 类型：品牌开号 / 城市发现。
 - 素材支撑：`01_intel/city-data.md`（136 处市场、7085.3 亿交易额、3000+ 专线、2026H1 国际客商 3.2 万人次等，均可直接引用）。
 - 当前状态：`needs-script`

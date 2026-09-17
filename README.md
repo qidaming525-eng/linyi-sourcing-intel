@@ -1,6 +1,7 @@
 # Linyi Sourcing Intel — 知识主库
 
-> `Dameon · Linyi Sourcing` 项目的唯一知识主库（Single Source of Truth）。
+> `Damon in Linyi` 项目的唯一知识主库（Single Source of Truth）。
+> The single source of truth for the Damon in Linyi project.
 > 建库日期：2026-09-16。
 
 ## 这个库是什么

@@ -9,7 +9,7 @@
 
 ## A. TikTok 账号（21 个）
 
-| # | 账号 | 定位类型 | 粉丝 | 总赞 | 置顶/爆款 | 内容风格 / Hook 要点 | CTA | 主要目标人群 | 对 Dameon 的可借鉴点 |
+| # | 账号 | 定位类型 | 粉丝 | 总赞 | 置顶/爆款 | 内容风格 / Hook 要点 | CTA | 主要目标人群 | 对 Damon 的可借鉴点 |
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | lizchinasourcing | 采购代理头部（义乌） | 331.4K | 1.5M | 单条 2.1M / 232.4K / 56.5K（3 置顶） | 工厂探厂、价格对比、关税话题；"Expert in sourcing in China! This is my only account!" | **TikTok 原生 "get quote"** | 欧美中小卖家 | 代理定位天花板；站内询盘承接设计；置顶 3 条标准操作 |
 | 2 | sourcedaminov | 内容驱动 | 226.1K | 1.2M | 单爆 2.2M | 批发市场实拍，bio 极简 | 无显性 | 泛买家 | 内容爆款可以绕过 bio 运营 |
@@ -28,7 +28,7 @@
 | 15 | danielsourcing | 代理 | 18.6K | 31.1K | 3 置顶 | 代采 + 独立站 | WhatsApp + 网站 | 泛买家 | 独立站承接 |
 | 16 | annie.in.guangzhou | 广州本地向导 | 17.3K | 52.9K | — | Market Tours / Factory Visits / Translation（仅 7 条视频即 17.3K） | WhatsApp | 来华采购者 | **向导型冷启动效率最高**，直接参照 |
 | 17 | chinafactoryaccess | 教学型 | 15.2K | 36.8K | — | "Learn to Source Products from China" | 落地链接 | 新手卖家 | 教学型与代理定位互补 |
-| 18 | leo.sourcing.agent (Agent Leo) | 工厂探厂代理 | 15.2K | 40.6K | 置顶 40.6K（置顶=全年主流量） | bio 全模板：🏭 Factory Tours / 📦 Buy Direct / 🚢 Shipping | WhatsApp | 泛买家 | **与 Dameon 定位最接近的标准模板** |
+| 18 | leo.sourcing.agent (Agent Leo) | 工厂探厂代理 | 15.2K | 40.6K | 置顶 40.6K（置顶=全年主流量） | bio 全模板：🏭 Factory Tours / 📦 Buy Direct / 🚢 Shipping | WhatsApp | 泛买家 | **与 Damon 定位最接近的标准模板** |
 | 19 | oliviasourcing | 代理 | 8.0K | — | — | 找工厂 | WhatsApp | 泛买家 | 常规 |
 | 20 | summit.sourcing.china | 代理 | 6.6K | 19.6K | 3 置顶 | 连接买家与供应商 | — | 泛买家 | 常规 |
 | 21 | zouzou_inguangzhou | 广州向导 | 5.2K | 28.8K | — | 带逛+翻译+行程规划 | WhatsApp | 来华采购者 | 向导型服务清单写法 |

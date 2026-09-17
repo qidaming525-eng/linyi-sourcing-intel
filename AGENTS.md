@@ -27,7 +27,7 @@
 
 格式：`SUP-{CATEGORY}-{NNN}`，例如 `SUP-PP-001`。
 
-Git 中只记录脱敏业务信息，供应商真实身份由 Dameon 在库外保存。
+Git 中只记录脱敏业务信息，供应商真实身份由 Damon 在库外保存。
 
 ## 3. 两种价格严格区分
 
@@ -47,10 +47,12 @@ Git 中只记录脱敏业务信息，供应商真实身份由 Dameon 在库外�
 示例：
 
 ```markdown
-| sku | supplier_id | price | moq | terms | observed | publishable |
-|---|---|---:|---:|---|---|---|
-| PP-BOX-750 | SUP-PP-001 | $0.026 | 100000 | EXW | 2026-09-20 | yes |
+| sku | product | supplier_id | public_price | moq | terms | observed | publishable | note |
+|---|---|---|---:|---:|---|---|---|---|
+| PP-BOX-750 | PP food container 750ml | SUP-PP-001 | $0.026 | 100000 | EXW | 2026-09-20 | yes | |
 ```
+
+正式 schema 统一为 `sku` / `product` / `supplier_id` / `public_price` / `moq` / `terms` / `observed` / `publishable` / `note`（与 `02_suppliers/products.md` 一致）。**不得引入第二个价格字段。**
 
 ### internal_cost（绝对禁止进入 Git）
 
