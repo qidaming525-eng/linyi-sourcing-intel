@@ -127,6 +127,15 @@
 - 核心角度：以 MFPP 餐盒为真实案例，重点回答 **Why does the price differ?**
 - 数据边界：具体差异**必须以后根据真实工厂数据填写，不得提前猜**
 
+### Terminology Note
+
+`MFPP` 为 Damon 当前提供的工厂术语。正式脚本编写前必须由嘉澳确认：
+
+- 准确英文名称
+- 材料/工艺定义
+
+WorkBuddy 不自行扩写或猜测 `MFPP` 的含义。
+
 ## V010
 
 **I Found an Entire Wholesale Market for ___ in Linyi**（Working Title）
@@ -168,11 +177,11 @@
 ### A Real Sourcing Request in Linyi / 一个真实临沂采购需求
 
 - status: `planned`
-- dependency: `waiting-real-case`
+- dependency: `real-case-required`
 - 内容：拿一个真实客户需求（图片 / 产品要求），展示找货 → 比价 → 看样
 
 ### I Wouldn't Ship This to My Client / 这个质量问题，我不会给客户发货
 
 - status: `planned`
-- dependency: `waiting-real-qc-case`
+- dependency: `real-qc-case-required`
 - 内容：真实 QC / 问题订单，展示问题 → 检查 → 怎么处理

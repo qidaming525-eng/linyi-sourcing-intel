@@ -127,10 +127,13 @@ Help an overseas buyer who has never heard of Linyi understand:
 
 ## 8. CTA
 
-**None by design / 刻意不设 CTA.**
+| 项 | 值 |
+|---|---|
+| CTA Type | `None — intentional` |
+| Close Type | `Soft continuation close` |
 
 - V001 定位为城市发现片（city-awareness），不是服务广告；不使用 "Contact us" / "We offer the lowest price" 一类招募话术。
-- 后续正式 CTA 标准（含用词与关键词）尚待 ChatGPT 定义 → **Needs ChatGPT**。
+- `This is Linyi. Let's start here.` 承担**品牌收口**和**下一条内容承接**功能，但不是直接行动 CTA。
 
 ## 9. Related Videos
 

@@ -60,10 +60,14 @@
 | 5 | 中文理解 | 与英文逐段对应的中文理解 |
 | 6 | Visual Plan | 逐段画面与屏幕大字 |
 | 7 | Facts / Products Used | 用到的数字、SKU、`public_price`、MOQ、工艺点 |
-| 8 | CTA | 明确的行动引导；如刻意不设，须写明 `None by design` 与理由 |
+| 8 | CTA | 允许三种类型：`Direct CTA` / `Soft CTA` / `None — intentional`。必须写明类型；`None — intentional` 须写明理由 |
 | 9 | Related Videos | 与其它视频的承接关系 |
 | 10 | Content Memory | Main Question / Core Facts Already Used / Core Visuals Already Used |
 | 11 | Do Not Repeat | 以后不得再作为整条视频主要价值的角度 |
+
+**CTA 类型 / CTA types**：`Direct CTA`（明确行动引导）｜`Soft CTA`（软引导）｜`None — intentional`（刻意不设行动 CTA，须写明理由）。
+
+**WorkBuddy 不得为了满足模板而强行补 CTA。**
 
 > Metadata 不要做复杂。Do not add unnecessary metadata fields.
 
