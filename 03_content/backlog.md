@@ -58,10 +58,26 @@
 
 - pillar: `product / sourcing`
 - status: `planned`
-- 拍摄地点：澳强家超级展厅（拍摄目标 / film target）
-- 核心角度：展示一站式集成资源 —— 一次性餐盒、托盘、一次性杯子、寿司盒、酱料杯、一次性刀叉勺
-- 重点：展厅展示采购范围
-- 边界：本条不深入三家工厂生产线
+- 拍摄地点：澳强家超级展厅（`SUP-PACK-001`）
+- **核心问题（2026-09-18 更新，不再以"这里有什么"为主问题）**
+  - EN：`How can an overseas buyer build a complete disposable food packaging lineup in one place, without going factory to factory?`
+  - CN：`一个海外买家，怎么不用一家家跑工厂，就能在一个地方把一次性食品包装配齐？`
+- 核心价值：`one-stop sourcing integration / 一次配齐 + 资源整合`
+- 核心角度（2026-09-18 更新）
+  - 展示完整包装组合如何在一个展厅内被组织和配齐
+  - 展示多规格 / 多用途产品同场共存
+  - 说明并非所有产品来自同一条生产线
+  - 说明不同专业生产伙伴负责不同产品
+  - Damon 知道这些产品背后的真实供应链关系
+- 表述许可（2026-09-18）：可用 `a one-stop sourcing showroom for disposable food packaging`；可用 `one of the packaging suppliers I work closely with here in Linyi`。
+- 禁用表述（2026-09-18）：`the largest / biggest / full-category supplier`；「我们自己的工厂」/「全部自己生产」/「全是 factory direct」。
+- 价格与 MOQ：仍锁在 V005 首次正式出现。本条不报价格、不报 MOQ、不拍报价单，价格标签尽量避开或后期模糊，不讲"更便宜"。
+- 工厂出场安排：本条**不点名**碗汇 / 嘉澳 / 泰合，仅表述为「不同的专业生产伙伴，各自负责不同的产品」（`Different specialized production partners focus on different products.`）；三家各自在未来正式出场。
+- 边界（2026-09-18 更新）：**本条不出现工厂生产线主体画面。**
+  - V002 中的 `from a one-stop showroom to the factories behind it` 属**整个 disposable-packaging 内容系列的承诺**，不要求 V003 一条视频同时完成展厅 + 工厂。
+  - 文字层面可说明后续系列将进入专业工厂，例如 `In this series, I'll also take you inside the factories that specialize in these products.`（**Soft CTA** 方向）
+  - 不拍生产线、不讲吸塑流程、不讲注塑流程、不解释 `MFPP`、不讲价格差异、不报价格、不报 MOQ。
+- 内容归属：生产线流程 → V006 / V012；价格差异与 `MFPP` 定义 → V009；价格与 MOQ → V005
 
 ## V004
 

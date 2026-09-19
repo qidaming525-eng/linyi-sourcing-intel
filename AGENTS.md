@@ -27,7 +27,26 @@
 
 格式：`SUP-{CATEGORY}-{NNN}`，例如 `SUP-PP-001`。
 
-Git 中只记录脱敏业务信息，供应商真实身份由 Damon 在库外保存。
+**默认规则**：Git 中只记录脱敏供应商信息，真实身份由 Damon 在库外保存。
+
+**例外（2026-09-18 增补）**：如果 Damon 已明确确认某供应商名称可以公开，则允许在 Git 中记录该供应商的 `public_name`，但必须同时满足：
+
+- `public_identity_allowed = yes`
+- 名称由 Damon 明确提供或确认
+- 不记录联系人
+- 不记录手机号 / 微信 / 邮箱
+- 不记录 internal_cost / 返点 / 账期 / 利润
+- 不记录合同 / PI / 支付资料
+
+未明确授权公开的供应商仍只能使用 `supplier_id`。
+
+English:
+
+Supplier identities remain private by default.
+
+A supplier's public name may be stored only when Damon has explicitly confirmed that the identity is public and `public_identity_allowed = yes`.
+
+Contacts and sensitive commercial information remain prohibited.
 
 ## 3. 两种价格严格区分
 
