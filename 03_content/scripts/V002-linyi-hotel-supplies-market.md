@@ -39,25 +39,25 @@ CN:
 | 中文理解 | 如果你做酒店、餐厅、咖啡店或者奶茶店，我带你看看临沂一个市场里到底能采购到什么。 |
 | Delivery | Damon on camera（Damon 真人现场口播） |
 | Visual | Damon 直接站在货架/产品前，手拿一个具体产品。**不要以商城外景或大远景开篇。** |
-| On-screen | `WHAT CAN YOU SOURCE HERE?` |
+| On-screen | `INSIDE A LINYI HOTEL SUPPLIES MARKET` |
 
 ## 4. Full Script EN
 
-| # | Timecode | English |
-|---|---|---|
-| 1 | 00:00–00:05 | If you run a hotel, restaurant, café, or bubble tea shop, here's what you can source in one market in Linyi. |
-| 2 | 00:05–00:09 | Welcome to Linyi, China. I'm Damon — your guy on the ground. |
-| 3 | 00:09–00:15 | First, disposable supplies. |
-| 4 | 00:15–00:19 | Then bubble tea equipment. |
-| 5 | 00:19–00:23 | Coffee equipment. |
-| 6 | 00:23–00:27 | Commercial kitchen equipment. |
-| 7 | 00:27–00:33 | Tableware. |
-| 8 | 00:33–00:39 | And porcelain ware. |
-| 9 | 00:39–00:47 | I'm not here just to tell you Linyi has a lot of products. I want to show you what's actually on the shelves. |
-| 10 | 00:47–00:55 | Next, I'm going deeper into disposable food packaging — from a one-stop showroom to the factories behind it. |
-| 11 | 00:55–00:57 | Let's go deeper. |
+| # | Timecode | English | Delivery |
+|---|---|---|---|
+| 1 | 00:00–00:05 | If you run a hotel, restaurant, café, or bubble tea shop, here's what you can source in one market in Linyi. | Damon on camera |
+| 2 | 00:05–00:09 | Welcome to Linyi, China. I'm Damon — your guy on the ground. | Damon on camera |
+| 3 | 00:09–00:15 | First, disposable supplies. | English voice-over |
+| 4 | 00:15–00:19 | Then bubble tea equipment. | English voice-over |
+| 5 | 00:19–00:23 | Coffee equipment. | English voice-over |
+| 6 | 00:23–00:27 | Commercial kitchen equipment. | English voice-over |
+| 7 | 00:27–00:33 | Tableware. | English voice-over |
+| 8 | 00:33–00:39 | And porcelain ware. | English voice-over |
+| 9 | 00:39–00:47 | I'm not here just to tell you Linyi has a lot of products. I want to show you what's actually on the shelves. | English voice-over |
+| 10 | 00:47–00:55 | Next, I'm going deeper into disposable food packaging — from a one-stop showroom to the factories behind it. | English voice-over |
+| 11 | 00:55–00:57 | Let's go deeper. | Damon on camera |
 
-> 逐段口播方式：批准文本仅指定第 1 段（Hook）为 `Damon on camera`，未逐段指定其余各段。整体方式见 §1 Metadata 的 `delivery_mode`（on-camera-opening + English-voiceover + on-camera-ending）。入库时**未自行补推逐段 Delivery**。
+> 逐段 Delivery 由 ChatGPT 于 2026-09-18 确认；整体方式见 §1 Metadata 的 `delivery_mode`。
 
 ## 5. 中文理解
 
@@ -73,7 +73,7 @@ CN:
 | 8 | 00:33–00:39 | 还有瓷具。 |
 | 9 | 00:39–00:47 | 我不只是想告诉你临沂"货很多"，我更想直接带你看货架上到底有什么。 |
 | 10 | 00:47–00:55 | 下一条，我会深入一次性食品包装——从一站式展厅，一直看到背后的工厂。 |
-| 11 | 00:55–00:57 | 下一条，我们继续往里看。 |
+| 11 | 00:55–00:57 | 我们继续往里看。 |
 
 ## 6. Visual Plan
 
