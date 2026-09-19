@@ -13,7 +13,7 @@
 由 Damon + ChatGPT 确认，backlog 从 6 条规划扩展为 **V001–V012**，并统一启用新状态体系。
 
 - **V001** — 脚本已批准 → 状态 `approved`，正文已入库 `03_content/scripts/V001-why-linyi.md`。
-- **V002–V012** — 新规划选题 → 状态 `planned`，仅为方向，**不是最终脚本**。
+- **V002–V012** — 新规划选题 → 状态 `planned`（2026-09-17 时点），仅为方向，**不是最终脚本**。其中 **V002 已于 2026-09-18 转为 `approved`**（见下方 V002 条目）。
 - 旧状态标签（`needs-script` / `needs-market` / `needs-market-data` / `needs-supplier` / `waiting-real-case` / `waiting-real-qc-case`）**停用**，统一改用 `03_content/scripts/README.md` 中的 7 状态体系（`idea` / `planned` / `draft` / `approved` / `shot` / `published` / `retired`）。
 
 **旧标题去向 / Previous titles（历史记录，非当前状态）**
@@ -45,7 +45,8 @@
 **临沂酒店用品市场，到底能买到什么？**
 
 - pillar: `market / product-discovery`
-- status: `planned`
+- status: `approved`（2026-09-18 批准）
+- 定稿脚本：`03_content/scripts/V002-linyi-hotel-supplies-market.md`
 - 拍摄地点：中国酒店用品商城
 - 核心角度：快速展示一次性用品、奶茶设备、咖啡设备、商用厨房设备、餐具、瓷具，回答 **What can I actually source here?**
 - 边界：不深入单个工厂
