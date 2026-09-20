@@ -53,30 +53,39 @@
 
 ## V003
 
-**Inside a One-Stop Disposable Food Packaging Showroom in Linyi**
-**带你看临沂一站式一次性食品包装展厅**
+**One Showroom, Three Owned Factories — One-Stop Disposable Food Packaging in Linyi**
+**一个展厅，三家自有工厂——临沂一次性食品包装的一站式模式**
 
-- pillar: `product / sourcing`
+- pillar: `product / sourcing / factory-trade-integration`
 - status: `planned`
 - 拍摄地点：澳强家超级展厅（`SUP-PACK-001`）
-- **核心问题（2026-09-18 更新，不再以"这里有什么"为主问题）**
-  - EN：`How can an overseas buyer build a complete disposable food packaging lineup in one place, without going factory to factory?`
-  - CN：`一个海外买家，怎么不用一家家跑工厂，就能在一个地方把一次性食品包装配齐？`
-- 核心价值：`one-stop sourcing integration / 一次配齐 + 资源整合`
-- 核心角度（2026-09-18 更新）
-  - 展示完整包装组合如何在一个展厅内被组织和配齐
-  - 展示多规格 / 多用途产品同场共存
-  - 说明并非所有产品来自同一条生产线
-  - 说明不同专业生产伙伴负责不同产品
-  - Damon 知道这些产品背后的真实供应链关系
-- 表述许可（2026-09-18）：可用 `a one-stop sourcing showroom for disposable food packaging`；可用 `one of the packaging suppliers I work closely with here in Linyi`。
-- 禁用表述（2026-09-18）：`the largest / biggest / full-category supplier`；「我们自己的工厂」/「全部自己生产」/「全是 factory direct」。
-- 价格与 MOQ：仍锁在 V005 首次正式出现。本条不报价格、不报 MOQ、不拍报价单，价格标签尽量避开或后期模糊，不讲"更便宜"。
-- 工厂出场安排：本条**不点名**碗汇 / 嘉澳 / 泰合，仅表述为「不同的专业生产伙伴，各自负责不同的产品」（`Different specialized production partners focus on different products.`）；三家各自在未来正式出场。
-- 边界（2026-09-18 更新）：**本条不出现工厂生产线主体画面。**
-  - V002 中的 `from a one-stop showroom to the factories behind it` 属**整个 disposable-packaging 内容系列的承诺**，不要求 V003 一条视频同时完成展厅 + 工厂。
-  - 文字层面可说明后续系列将进入专业工厂，例如 `In this series, I'll also take you inside the factories that specialize in these products.`（**Soft CTA** 方向）
-  - 不拍生产线、不讲吸塑流程、不讲注塑流程、不解释 `MFPP`、不讲价格差异、不报价格、不报 MOQ。
+- **核心事实（Damon 2026-09-20 明确确认）**
+  - 澳强家不是单纯贸易商 / showroom integrator；其前端为一站式集合展厅，后端有 **3 家自有工厂**。
+  - 三家工厂分别负责不同产品线，不是一家工厂、一条生产线什么都做。
+  - 可用内部理解：`工贸一体 / 前店后厂`。
+  - 对外英文优先表达为：`a one-stop showroom backed by three owned factories specializing in different product lines`，比生硬直译 `industry-trade integration` 更容易让海外买家理解。
+  - **当前不得自行把这三家自有工厂与 `SUP-PACK-002/003/004` 做所有权绑定**，除非 Damon 后续明确确认对应关系。
+- **核心问题（2026-09-20 更新）**
+  - EN：`How can one showroom offer so many disposable food-packaging products while still being factory-backed?`
+  - CN：`一个展厅为什么能把这么多一次性食品包装集中起来，而且背后还是自有工厂体系？`
+- 核心价值：`one-stop sourcing + owned-factory specialization / 一站式选品 + 自有专业工厂分工`
+- 核心角度（2026-09-20 更新）
+  - 前端展厅：买家先在一个地方看、比、组合不同包装方案。
+  - 后端工厂：三家自有工厂分别专注不同产品线。
+  - 强调“品类完整”不等于“一家工厂什么都生产”，而是通过专业工厂分工形成完整产品组合。
+  - 展示 Damon 不只是看货，而是理解展厅产品背后的生产分工与供应链结构。
+- 表述许可：
+  - `a one-stop sourcing showroom backed by three owned factories`
+  - `three owned factories specializing in different product lines`
+  - `front showroom, specialized factories behind it`
+  - 中文可用「工贸一体」「前店后厂」「源头工厂的一站式集合展厅」。
+- 禁用表述：`the largest / biggest / full-category supplier`；「所有产品都由同一家工厂生产」；「一条生产线什么都做」；未经确认的工厂所有权具体对应关系；未经核实的价格 / MOQ / 材料 / 工艺。
+- 价格与 MOQ：仍锁在 V005 首次正式出现。本条不报价格、不报 MOQ、不拍报价单，价格标签尽量避开或后期模糊，不讲“更便宜”。
+- 工厂出场安排：本条重点解释**三家自有工厂分工的模式**，但不必在 V003 展开完整生产工艺；具体生产线流程继续留给 V006 / V012 等工厂内容。
+- 边界（2026-09-20 更新）：
+  - V003 可以明确说澳强家背后有 3 家自有工厂。
+  - V003 不展开吸塑 / 注塑 / MFPP 的具体工艺知识，不讲价格差异，不报价格，不报 MOQ。
+  - 如果后续要点名具体工厂与产品对应，必须先由 Damon 确认所有权和对应关系。
 - 内容归属：生产线流程 → V006 / V012；价格差异与 `MFPP` 定义 → V009；价格与 MOQ → V005
 
 ## V004
