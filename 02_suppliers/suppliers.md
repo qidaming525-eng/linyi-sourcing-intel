@@ -6,7 +6,7 @@
 
 | supplier_id | public_name | category | district | type | factory | shootable | public_identity_allowed | verified | note |
 |---|---|---|---|---|---|---|---|---|---|
-| SUP-PACK-001 | 澳强家 | disposable-food-packaging | | showroom-integrator | no | yes | yes | Damon-confirmed | One-stop sourcing/showroom resource for disposable food packaging; Damon-confirmed close cooperation. Not all products are produced by one production line. |
+| SUP-PACK-001 | 澳强家 | disposable-food-packaging | | factory-backed-showroom | yes | yes | yes | Damon-confirmed | Damon-confirmed on 2026-09-20: Aoqiangjia operates a one-stop disposable-food-packaging showroom backed by **three owned factories**, with the three factories focusing on different product lines. This supports a factory-and-trade integrated / front-showroom-back-factory model. Do not imply that all products come from one production line or one single factory. The ownership mapping between these three factories and other supplier IDs in this repo is not yet explicitly confirmed; do not infer it. |
 | SUP-PACK-002 | 碗汇 | disposable-food-packaging | | factory | yes | yes | yes | Damon-confirmed | Damon-provided: mainly thermoformed blue-and-white and red-and-white bowls. Do not publish "mid-to-high-end" positioning until separately confirmed. |
 | SUP-PACK-003 | 嘉澳 | disposable-food-packaging | | factory | yes | yes | yes | Damon-confirmed | Damon-provided: mainly MFPP food containers. MFPP exact English/material/process definition remains unconfirmed and must not be expanded or guessed. |
 | SUP-PACK-004 | 泰合 | disposable-food-packaging | | factory | yes | yes | yes | Damon-confirmed | Damon-provided: mainly injection-molded food containers. |
@@ -17,7 +17,7 @@
 - `public_name` — 仅当 Damon 明确允许公开时填写
 - `category` — 品类
 - `district` — 未知时留空，**不猜**
-- `type` — `showroom-integrator` / `factory`
+- `type` — `showroom-integrator` / `factory-backed-showroom` / `factory`
 - `factory` — yes / no
 - `shootable` — yes / no
 - `public_identity_allowed` — yes / no
