@@ -1,18 +1,18 @@
 # V006 — How Red-and-White Food Bowls Are Made in Linyi, China
 
-> Draft production package. Based on Damon-confirmed access to Wanhui factory, warehouse, production workshop, and filming beside the production line.
-> Status remains `draft` until Damon approves the script and shoot logic.
+> Approved production package. Based on Damon-confirmed access to Wanhui factory, warehouse, production workshop, and filming beside the production line.
+> Damon approved the script and shoot logic on 2026-09-20.
 
 ## 1. Metadata
 
 ```yaml
 video_id: V006
-status: draft
+status: approved
 title_en: "How Red-and-White Food Bowls Are Made in Linyi, China"
 title_cn: "临沂工厂里的红白双色餐碗，是怎么生产出来的？"
 pillar: factory / manufacturing
 category: disposable-food-packaging / thermoformed-bowl
-approved_date: null
+approved_date: 2026-09-20
 planned_location: 碗汇工厂（SUP-PACK-002）— 生产车间 + 仓库
 planned_resource: red-and-white food bowl production line
 delivery_mode: on-camera-hook + b-roll-voiceover + on-camera-ending
