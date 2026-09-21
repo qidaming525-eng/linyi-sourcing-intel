@@ -8,29 +8,10 @@
 > WorkBuddy does not independently create final scripts; it records them only after approval.
 
 **本文件是内容生产流程的唯一规范来源 / Single source of truth for the content workflow.**
-以下四类规则统一写在本文件，不再分散：
-
-1. 内容状态定义 / Content status definitions
-2. 定稿脚本必备结构 / Required structure for approved scripts
-3. 内容重复度检查 / Content overlap check
-4. 标准内容工作流 / Standard content workflow
-
-**文件层级 / File layers**
-
-| 文件 | 职责 / Responsibility |
-|---|---|
-| `AGENTS.md` | 仓库宪法 — 全库通用规则与安全边界 |
-| `positioning.md` | 品牌战略 — 定位、平台、决策记录 |
-| `03_content/backlog.md` | 未来拍什么 — 选题与状态 |
-| `03_content/scripts/README.md` | 内容怎么生产、怎么查重、怎么入库 —— **本文件** |
-| `03_content/scripts/Vxxx.md` | 每条最终内容 |
-| `04_performance/videos.md` | 发出去以后表现怎么样 |
 
 ---
 
 ## 1. Content Status Definitions / 内容状态定义
-
-以后所有视频必须使用以下状态之一。Every video must use one of these statuses.
 
 | 状态 | 中文 | English |
 |---|---|---|
@@ -42,140 +23,122 @@
 | `published` | 已经发布 | Published |
 | `retired` | 因为方向变化或内容重复，不再执行 | No longer active due to strategy change or duplication |
 
-> 本状态体系取代旧标签（`needs-script` / `needs-market` / `needs-market-data` / `needs-supplier` / `waiting-real-case` / `waiting-real-qc-case`）。旧标签不再使用。
-
 ---
 
-## 2. Required Structure for Approved Scripts / 定稿脚本必备结构
+## 2. Full Production Package / 每一期完整交付标准
 
-以后进入本目录的正式脚本**至少**包含以下 11 段。
-目的：做到 100、200 条视频以后，仍可回溯 —— 拍过什么、说过什么、用过什么数据、用过什么 Hook、下一次怎么避免重复。
+从 2026-09-20 起，**一条视频只有同时具备“内容 + 拍摄 + 发布”三层信息，才算完整交付。**
 
-| # | 段 / Section | 内容 |
+任何 `approved` 脚本至少包含以下 **16 段**：
+
+| # | Section | 必须包含 |
 |---|---|---|
 | 1 | Metadata | `video_id` / `status` / `title_en` / `title_cn` / `pillar` / `category` / `approved_date` / `planned_location` / `delivery_mode` |
-| 2 | Core Promise / 核心承诺 | 这条视频承诺让观众获得什么 |
-| 3 | Hook | 前 3–5 秒，逐字保留 |
-| 4 | Full Script EN | 英文正文，按时间轴逐段，逐字保留 |
-| 5 | 中文理解 | 与英文逐段对应的中文理解 |
-| 6 | Visual Plan | 逐段画面与屏幕大字 |
-| 7 | Facts / Products Used | 用到的数字、SKU、`public_price`、MOQ、工艺点 |
-| 8 | CTA | 允许三种类型：`Direct CTA` / `Soft CTA` / `None — intentional`。必须写明类型；`None — intentional` 须写明理由 |
-| 9 | Related Videos | 与其它视频的承接关系 |
-| 10 | Content Memory | Main Question / Core Facts Already Used / Core Visuals Already Used |
-| 11 | Do Not Repeat | 以后不得再作为整条视频主要价值的角度 |
+| 2 | Core Promise | 观众看完获得什么 |
+| 3 | Hook | 前 3–5 秒逐字稿 |
+| 4 | Full Script EN | 英文逐字稿 + timecode + delivery |
+| 5 | 中文理解 | 与英文逐段对应 |
+| 6 | Visual Plan | 每段画面、动作、On-screen text |
+| 7 | Facts / Products Used | 数据、SKU、价格、MOQ、工艺等 |
+| 8 | CTA | `Direct CTA` / `Soft CTA` / `None — intentional` |
+| 9 | Related Videos | 前后承接关系 |
+| 10 | Content Memory | 主问题、已用事实、已用核心画面 |
+| 11 | Do Not Repeat | 后续不得重复的主要价值 |
+| 12 | Titles & Cover | 主标题、备用标题、封面大字 |
+| 13 | Shot-by-Shot Board | **逐镜头写清 Damon 真人 / B-roll / VO / Sync sound**，以及具体动作 |
+| 14 | Publishing Caption | 英文主发布文案 + 中文理解；必要时给平台差异版 |
+| 15 | Hashtags | 固定品牌标签 + 当期品类标签 |
+| 16 | Shoot & Edit Checklist | 到现场必拍、收音、字幕、价格/隐私遮挡、剪辑节奏、素材禁区 |
 
-**CTA 类型 / CTA types**：`Direct CTA`（明确行动引导）｜`Soft CTA`（软引导）｜`None — intentional`（刻意不设行动 CTA，须写明理由）。
+### Delivery 标准词汇
 
-**WorkBuddy 不得为了满足模板而强行补 CTA。**
+每个镜头必须至少标一种：
 
-> Metadata 不要做复杂。Do not add unnecessary metadata fields.
+- `ON-CAMERA` — Damon 真人直接口播
+- `B-ROLL + VO` — 画面为产品/市场/工厂，后期英文旁白
+- `B-ROLL + NAT SOUND` — B-roll 保留现场声
+- `ON-CAMERA ACTION` — Damon 不一定说话，但本人需要出现在画面执行动作
+- `TEXT-ONLY INSERT` — 只承担信息强调，不作为主体镜头
+
+### Hashtag 固定基础组
+
+除非某个平台规则变化或数据复盘要求调整，Damon 内容优先保留以下核心标签：
+
+`#Linyi #LinyiSourcing #BuyAgent #ChinaSourcing #SourcingAgent`
+
+每期再加 1–2 个**强相关品类标签**，例如：
+
+- 一次性食品包装：`#FoodPackaging #WholesaleChina`
+- 奶茶设备：`#BubbleTeaEquipment`
+- 咖啡：`#CoffeeEquipment`
+- 商厨：`#CommercialKitchen`
+
+> Hashtag 不含空格，因此使用 `#LinyiSourcing`，不是 `#Linyi Sourcing`；使用 `#BuyAgent`，不是 `#Buy Agent`。
+
+### 完整交付判定
+
+如果只有逐字稿而缺少分镜、真人/B-roll 标记、封面、Caption 或 Hashtags，状态不得视为“production-ready”。
 
 ---
 
 ## 3. Content Overlap Check / 内容重复度检查
 
-以后 ChatGPT 准备一条新视频之前，WorkBuddy 根据以下三类文件进行一次**机械式**重复度检查：
+新视频进入脚本前，由 WorkBuddy 根据：
 
-- `03_content/scripts/`（已入库定稿脚本）
-- `03_content/backlog.md`（已规划选题）
-- `03_content/hooks.md`（已用 Hook 公式）
+- `03_content/scripts/`
+- `03_content/backlog.md`
+- `03_content/hooks.md`
 
-检查五个维度 / Five dimensions:
+检查五个维度：Topic / Core Question / Information / Hook / Visual Structure。
+每维 0–2，总分 0–10：
 
-| # | 维度 | 判据 |
-|---|---|---|
-| 1 | Topic / 主题 | 是不是同一个**市场 / 工厂 / 产品 / 品类** |
-| 2 | Core Question / 核心问题 | 观众看完后得到的主要答案是否一样（"有什么？" / "多少钱？" / "怎么生产？" / "为什么价格不同？" 属于不同问题） |
-| 3 | Information / 信息载荷 | 是否重复使用相同**数据 / SKU / `public_price` / MOQ / 工艺知识 / QC 点** |
-| 4 | Hook / 开场承诺 | 前 3–5 秒是否在承诺基本相同的内容 |
-| 5 | Visual Structure / 画面结构 | 主体画面是否再次主要依赖**同一个展厅 / 同一条生产线 / 同一组货架 / 同一种流水线镜头** |
+- 0–3：LOW OVERLAP
+- 4–6：MEDIUM OVERLAP → 提交 ChatGPT 调整角度
+- 7–10：HIGH OVERLAP → 提交 ChatGPT 决定取消 / 改问题 / 延后 / 重做
 
----
-
-## 4. Overlap Scoring / 重复度评分
-
-每个维度打分 / Per-dimension score:
-
-- `0` = 基本不同 / distinct
-- `1` = 部分重合 / partial overlap
-- `2` = 高度重合 / substantial overlap
-
-总分 0–10 / Total 0–10:
-
-| 分数 | 判定 | 处理 |
-|---|---|---|
-| 0–3 | `LOW OVERLAP`（重复度低） | 可以进入脚本策划 |
-| 4–6 | `MEDIUM OVERLAP`（存在明显重合） | WorkBuddy **不自行否决**，必须告诉 ChatGPT：重复在哪里、哪些部分需要换角度 |
-| 7–10 | `HIGH OVERLAP`（与已有内容高度相似） | WorkBuddy **不自行删除选题**，必须提交 ChatGPT 决策：是否取消 / 是否换核心问题 / 是否延后发布 / 是否重新设计 Hook、信息、画面 |
-
-> WorkBuddy 只负责**记忆和查重**；选题取舍与角度创新由 ChatGPT 判断。
+WorkBuddy 只负责记忆和查重；内容取舍由 Damon + ChatGPT 决定。
 
 ---
 
-## 5. Same Category Does Not Mean Duplicate / 同品类不等于重复
+## 4. Same Category Does Not Mean Duplicate / 同品类不等于重复
 
-同一品类（一次性食品包装）下的四条选题 —— 涉及资源：澳强家超级展厅 / 碗汇 / 嘉澳 / 泰合：
+同一次性食品包装可以存在不同问题：
 
-| 视频 | 核心问题 / Core question | 类型 |
+| 视频 | 核心问题 | 类型 |
 |---|---|---|
-| `V003` | 这里能采购什么？ | Showroom / sourcing range |
-| `V006` | 产品怎么生产？（吸塑） | Manufacturing |
-| `V009` | 为什么两个产品价格不同？ | Price differences |
-| `V012` | 注塑生产到底是什么样？ | Injection molding |
+| V003 | 一站式展厅 + 三家自有工厂模式是什么？ | Showroom / sourcing model |
+| V005 | 真实整箱价格与 MOQ 是多少？ | Price / MOQ / warehouse |
+| V006 | 红白餐碗怎么生产？ | Manufacturing |
+| V009 | 为什么相似产品价格不同？ | Price differences |
+| V012 | 注塑餐盒如何生产？ | Injection molding |
 
-虽然都涉及一次性食品包装，但：**核心问题不同 = 内容可以成立。**
-
-Same category does not automatically mean duplicate content.
+核心问题不同，内容可以成立。
 
 ---
 
-## 6. Standard Content Workflow / 标准内容工作流
+## 5. Standard Content Workflow / 标准内容工作流
 
 ```text
 Damon provides real-world resources
 ↓
-WorkBuddy checks existing scripts/backlog for overlap
+WorkBuddy checks overlap
 ↓
 ChatGPT decides topic and angle
 ↓
-ChatGPT writes bilingual script
+ChatGPT writes FULL production package
+(script + storyboard + delivery + cover + caption + hashtags + checklist)
 ↓
 Damon approves
 ↓
-WorkBuddy archives approved script in GitHub
+Approved package archived in GitHub
 ↓
 Damon films
 ↓
-Video is published
+Publish
 ↓
-WorkBuddy records performance data
+WorkBuddy records performance
 ↓
-ChatGPT reviews results and adjusts strategy
+ChatGPT reviews and adjusts
 ```
 
-中文：
-
-```text
-Damon 提供真实资源
-↓
-WorkBuddy 查历史内容和重复度
-↓
-ChatGPT 决定选题和角度
-↓
-ChatGPT 写中英双语脚本
-↓
-Damon 最终确认
-↓
-WorkBuddy 将 approved 脚本入 GitHub
-↓
-Damon 拍摄
-↓
-发布
-↓
-WorkBuddy 回填表现数据
-↓
-ChatGPT 复盘并调整下一阶段方向
-```
-
-> 简记：**查重 → 写 → 批准 → 入库 / overlap check → script → approval → archive**
+简记：**查重 → 完整拍摄包 → Damon 批准 → 入库 → 拍摄 → 发布 → 复盘。**
