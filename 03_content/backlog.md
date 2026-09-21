@@ -4,7 +4,7 @@
 > 状态定义、定稿脚本结构、重复度检查与入库流程，统一见 `03_content/scripts/README.md`（内容生产流程的唯一规范来源）。
 > 脚本正文存 `03_content/scripts/`；发布后的表现数据存 `04_performance/videos.md`。
 > 不给视频编造数据；脚本由 ChatGPT 根据知识库与 Damon 提供的真实资源统一撰写。
-> 本轮不含任何价格、MOQ 或供应商真实联系方式；产品数据待 Damon 真实采集后另录。
+> `public_price` / MOQ 只有在 Damon 真实采集并明确确认可公开后才能进入脚本与 `02_suppliers/products.md`；internal_cost 永不入库。
 
 ---
 
@@ -13,7 +13,7 @@
 由 Damon + ChatGPT 确认，backlog 从 6 条规划扩展为 **V001–V012**，并统一启用新状态体系。
 
 - **V001** — 脚本已批准 → 状态 `approved`，正文已入库 `03_content/scripts/V001-why-linyi.md`。
-- **V002–V012** — 新规划选题 → 状态 `planned`（2026-09-17 时点），仅为方向，**不是最终脚本**。其中 **V002 已于 2026-09-18 转为 `approved`，V003 已于 2026-09-20 转为 `approved`**。
+- **V002–V012** — 新规划选题 → 初始状态 `planned`。其中 **V002 已于 2026-09-18 转为 `approved`；V003、V004、V005 已于 2026-09-20 转为 `approved`**。
 - 旧状态标签（`needs-script` / `needs-market` / `needs-market-data` / `needs-supplier` / `waiting-real-case` / `waiting-real-qc-case`）**停用**，统一改用 `03_content/scripts/README.md` 中的 7 状态体系（`idea` / `planned` / `draft` / `approved` / `shot` / `published` / `retired`）。
 
 **旧标题去向 / Previous titles（历史记录，非当前状态）**
@@ -81,34 +81,49 @@
   - `front showroom, specialized factories behind it`
   - 中文可用「工贸一体」「前店后厂」「源头工厂的一站式集合展厅」。
 - 禁用表述：`the largest / biggest / full-category supplier`；「所有产品都由同一家工厂生产」；「一条生产线什么都做」；未经确认的工厂所有权具体对应关系；未经核实的价格 / MOQ / 材料 / 工艺。
-- 价格与 MOQ：仍锁在 V005 首次正式出现。本条不报价格、不报 MOQ、不拍报价单，价格标签尽量避开或后期模糊，不讲“更便宜”。
+- 价格与 MOQ：V003 不报；首次正式公开价格与 MOQ 已进入 V005。
 - 工厂出场安排：本条重点解释**三家自有工厂分工的模式**，但不必在 V003 展开完整生产工艺；具体生产线流程继续留给 V006 / V012 等工厂内容。
 - 边界（2026-09-20 更新）：
   - V003 可以明确说澳强家背后有 3 家自有工厂。
   - V003 不展开吸塑 / 注塑 / MFPP 的具体工艺知识，不讲价格差异，不报价格，不报 MOQ。
   - 如果后续要点名具体工厂与产品对应，必须先由 Damon 确认所有权和对应关系。
-- 内容归属：生产线流程 → V006 / V012；价格差异与 `MFPP` 定义 → V009；价格与 MOQ → V005
+- 内容归属：生产线流程 → V006 / V012；价格差异与 `MFPP` 定义 → V009；公开价格与 MOQ → V005
 
 ## V004
 
-**What Equipment Do You Actually Need to Open a Bubble Tea Shop?**
-**开一家奶茶店，到底需要哪些设备？**
+**Opening a Bubble Tea Shop? Start with the Workflow**
+**开一家奶茶店，先想流程，再选设备**
 
 - pillar: `product / buyer-solution`
-- status: `planned`
-- 核心角度：从海外餐饮买家需求出发，而不是单纯展示机器
-- 可展示：封口机、果糖机、制冰机、沙冰机、操作台、其他真实可拍设备
+- status: `approved`（2026-09-20 批准）
+- 定稿脚本：`03_content/scripts/V004-bubble-tea-workflow.md`
+- 拍摄地点：中国酒店用品城（具体楼栋/门头拍摄前现场确认）
+- 核心问题：开奶茶店时，第一轮设备采购应该先从门店 workflow 出发，而不是随机列机器。
+- 核心角度：sealing / ice / blending / portioning / workstation 五个工作节点；现场不存在的设备不得为了脚本硬凑。
+- 核心结论：`Build the workflow first. Then choose the equipment.`
+- 边界：不声称这五类就是所有奶茶店的完整设备标准；不同菜单 / 店型 / 规模会改变配置。
 
 ## V005
 
-**Inside a Real Linyi Wholesale Market — Products, Prices & MOQ**
-**走进真实临沂批发市场：产品、价格和 MOQ**
+**How Much Does One Carton of Food Packaging Cost in Linyi, China?**
+**在临沂，一整箱一次性食品包装到底多少钱？**
 
-- pillar: `market / price / MOQ`
-- status: `planned`
-- 核心角度：第一次正式选择少量真实 SKU —— 产品、规格、`public_price`、MOQ、是否可定制
-- 重点：不再只是展示"有什么"，而是回答"怎么买"
-- 数据边界：`public_price` 与 MOQ 必须为 Damon 真实采集且确认可公开后才能录入 → **Needs Damon**
+- pillar: `product / price / MOQ`
+- status: `approved`（2026-09-20 批准）
+- 定稿脚本：`03_content/scripts/V005-real-carton-prices-moq.md`
+- 拍摄地点：澳强家大型仓库（`SUP-PACK-001`）
+- 核心问题：**How much does one carton cost, and what is the MOQ?**
+- 核心角度：第一次正式公开真实一次性食品包装的整箱 EXW 价格 + 每箱数量 + MOQ。
+- 三款公开样本：
+  - 450ml 红白双色餐盒：450 pcs/ctn；USD 19.35/ctn EXW；MOQ 1 ctn。
+  - 50ml 酱料杯：1000 pcs/ctn；USD 9.40/ctn EXW；MOQ 1 ctn。
+  - 900ml MFPP 餐盒：150 pcs/ctn；USD 11.25/ctn EXW；MOQ 1 ctn。
+- 数据来源：Damon 真实报价资料并于 2026-09-20 明确确认价格可在公开视频中直接使用；已入 `02_suppliers/products.md`，`publishable=yes`。
+- 贸易条件：EXW；**freight not included / 不含运费**。
+- 表达规则：视频主信息用**整箱价**；单个价格仅作为屏幕小字辅助。
+- 核心采购知识：不能只比较 carton price；必须同时看 quantity / volume / specification。
+- MFPP 边界：只作为当前产品术语使用，不解释材料 / 工艺定义，直到工厂确认。
+- 仓库内容定位：`V003 = showroom / sourcing model`；`V005 = warehouse / real carton buying conditions`；后续工厂视频 = manufacturing。
 
 ## V006
 
