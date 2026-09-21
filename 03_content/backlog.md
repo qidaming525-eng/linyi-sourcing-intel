@@ -13,7 +13,7 @@
 由 Damon + ChatGPT 确认，backlog 从 6 条规划扩展为 **V001–V012**，并统一启用新状态体系。
 
 - **V001** — 脚本已批准 → 状态 `approved`，正文已入库 `03_content/scripts/V001-why-linyi.md`。
-- **V002–V012** — 新规划选题 → 初始状态 `planned`。其中 **V002 已于 2026-09-18 转为 `approved`；V003、V004、V005、V006 已于 2026-09-20 转为 `approved`**。
+- **V002–V012** — 新规划选题 → 初始状态 `planned`。其中 **V002 已于 2026-09-18 转为 `approved`；V003、V004、V005、V006 已于 2026-09-20 转为 `approved`；V007 已于 2026-09-21 转为 `approved`**。
 - 旧状态标签（`needs-script` / `needs-market` / `needs-market-data` / `needs-supplier` / `waiting-real-case` / `waiting-real-qc-case`）**停用**，统一改用 `03_content/scripts/README.md` 中的 7 状态体系（`idea` / `planned` / `draft` / `approved` / `shot` / `published` / `retired`）。
 
 **旧标题去向 / Previous titles（历史记录，非当前状态）**
@@ -142,13 +142,19 @@
 
 ## V007
 
-**What Can You Source for a Coffee Shop in Linyi?**
-**在临沂，一家咖啡店能采购到什么？**
+**Is One Coffee Machine Enough to Open a Coffee Shop?**
+**只买一台咖啡机，就够开一家咖啡店吗？**
 
-- pillar: `product / buyer-solution`
-- status: `planned`
-- 核心角度：从咖啡店采购清单出发
-- 边界：避免变成纯设备展示
+- pillar: `product / buyer-solution / real-interaction`
+- status: `approved`（2026-09-21 批准）
+- 定稿脚本：`03_content/scripts/V007-coffee-shop-setup.md`
+- 拍摄地点：中国酒店用品城（具体一期 / 二期 / 华东国际门头以现场标识确认）
+- 核心问题：**Is one coffee machine enough to open a coffee shop, and what should a buyer think about next?**
+- 结构：Damon 用一台真实咖啡设备做视觉 Hook → 当场问真人商户 → 商户真实回答 → 商户带 Damon 去看 2–3 类真实设备 → Damon 总结 `menu → workflow → equipment`。
+- 商户：Damon 已确认愿意真人露脸；采用 `Damon + 商户真人对话 + seller-led walkthrough` 方案。
+- 编导测试：visual hook / event-over-commentary / real second person / Full Script + Spoken Version / information progression。
+- 边界：不提前写死具体设备类别；商户真实回答和现场设备决定成片内容；不制造冲突，不报未确认价格、MOQ、品牌、功率、产能。
+- 全品类 CTA：`Tell me what business you're building, and I'll show you what Linyi can source for it.`
 
 ## V008
 
