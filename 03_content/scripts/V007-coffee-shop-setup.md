@@ -1,19 +1,19 @@
 # V007 — Is One Coffee Machine Enough to Open a Coffee Shop?
 
-> Draft production package. This is the first V007+ video intentionally testing the new directing layer selected by Damon + ChatGPT after WB-002.
+> Approved production package. This is the first V007+ video intentionally testing the new directing layer selected by Damon + ChatGPT after WB-002.
 > Damon confirmed on 2026-09-21 that the coffee-equipment seller is willing to appear on camera. The primary production plan therefore uses real on-camera dialogue and seller-led equipment discovery.
-> Status remains `draft` until Damon approves this complete production package.
+> Damon approved this complete production package on 2026-09-21.
 
 ## 1. Metadata
 
 ```yaml
 video_id: V007
-status: draft
+status: approved
 title_en: "Is One Coffee Machine Enough to Open a Coffee Shop?"
 title_cn: "只买一台咖啡机，就够开一家咖啡店吗？"
 pillar: product / buyer-solution / real-interaction
 category: coffee-shop-equipment
-approved_date: null
+approved_date: 2026-09-21
 planned_location: 中国酒店用品城（具体一期 / 二期 / 华东国际门头以拍摄当天现场标识确认）
 delivery_mode: on-camera-hook + real-seller-dialogue + seller-led-walkthrough + b-roll-voiceover + on-camera-ending
 target_length: 45-50s
@@ -388,5 +388,5 @@ Damon 现场不需要背完整准确稿，优先拍下面这些短句：
 
 - ✅ 商户愿意真人露脸：Damon 于 2026-09-21 确认。
 - ✅ 采用方案 A：`Damon + 商户真人对话 + 商户带路看设备`。
+- ✅ Damon 于 2026-09-21 最终确认本完整 production package，状态由 `draft` → `approved`。
 - ⏳ 商户具体回答与设备类别必须拍摄当天真实采集，不提前编造。
-- ⏳ 本完整 production package 待 Damon 最终确认后，状态由 `draft` → `approved`。
