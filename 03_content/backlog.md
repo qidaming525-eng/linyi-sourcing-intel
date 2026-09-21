@@ -13,7 +13,7 @@
 由 Damon + ChatGPT 确认，backlog 从 6 条规划扩展为 **V001–V012**，并统一启用新状态体系。
 
 - **V001** — 脚本已批准 → 状态 `approved`，正文已入库 `03_content/scripts/V001-why-linyi.md`。
-- **V002–V012** — 新规划选题 → 初始状态 `planned`。其中 **V002 已于 2026-09-18 转为 `approved`；V003、V004、V005 已于 2026-09-20 转为 `approved`**。
+- **V002–V012** — 新规划选题 → 初始状态 `planned`。其中 **V002 已于 2026-09-18 转为 `approved`；V003、V004、V005、V006 已于 2026-09-20 转为 `approved`**。
 - 旧状态标签（`needs-script` / `needs-market` / `needs-market-data` / `needs-supplier` / `waiting-real-case` / `waiting-real-qc-case`）**停用**，统一改用 `03_content/scripts/README.md` 中的 7 状态体系（`idea` / `planned` / `draft` / `approved` / `shot` / `published` / `retired`）。
 
 **旧标题去向 / Previous titles（历史记录，非当前状态）**
@@ -127,15 +127,18 @@
 
 ## V006
 
-**How Disposable Food Bowls Are Made in China**
-**一次性餐碗在中国工厂是怎么生产出来的？**
+**How Red-and-White Food Bowls Are Made in Linyi, China**
+**临沂工厂里的红白双色餐碗，是怎么生产出来的？**
 
-- pillar: `factory`
-- status: `planned`
-- 工厂：碗汇（拍摄目标 / film target）
-- 核心角度：聚焦吸塑蓝白碗 / 红白碗生产，拍原料 → 设备 → 成型 → 检查 → 包装
-- 后续可加入：规格、`public_price`、MOQ、customization
-- 边界：不要重复 V003 的"全品类展厅"角度
+- pillar: `factory / manufacturing`
+- status: `approved`（2026-09-20 批准）
+- 定稿脚本：`03_content/scripts/V006-red-white-bowl-factory.md`
+- 工厂：碗汇（`SUP-PACK-002`）
+- 拍摄资源：生产车间 + 仓库；Damon 可在生产线安全位置旁真人拍摄。
+- 核心问题：**How is a red-and-white disposable food bowl actually made inside a Linyi factory?**
+- 核心视觉：成品碗 + Damon 真人 → 生产线 → 成型 → 当天真实的后处理/检查/包装 → 成品仓库。
+- 已确认工艺类别：thermoforming / 吸塑；具体原料、温度、设备型号、产能、QC 标准、切割/堆叠顺序拍摄当天核实，不提前猜。
+- 边界：不要重复 V003 的一站式展厅结构，也不要把 V006 变成泛泛“工厂参观”。
 
 ## V007
 
