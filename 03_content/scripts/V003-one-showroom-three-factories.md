@@ -1,6 +1,6 @@
 # V003 — One Showroom. Three Factories.
 
-> 定稿脚本 / Approved script. 正文由 ChatGPT 撰写并经 Damon 于 2026-09-20 批准。
+> 定稿脚本 / Approved production package. 正文由 ChatGPT 撰写并经 Damon 于 2026-09-20 批准。
 > 入库流程与状态定义见 `03_content/scripts/README.md`。
 
 ## 1. Metadata
@@ -15,6 +15,8 @@ category: disposable-food-packaging
 approved_date: 2026-09-20
 planned_location: 澳强家超级展厅
 delivery_mode: on-camera-hook + English-voiceover + on-camera-ending
+target_length: 40-45s
+primary_format: vertical 9:16
 ```
 
 ## 2. Core Promise / 核心承诺
@@ -35,7 +37,7 @@ CN:
 |---|---|
 | English | **One showroom. Three factories. This is how food packaging sourcing works in Linyi.** |
 | 中文理解 | 一个展厅，三家工厂。这就是临沂食品包装的一种采购模式。 |
-| Delivery | Damon on camera |
+| Delivery | `ON-CAMERA` |
 | Visual | Damon 站在大量不同包装产品中间；2–3 种产品快速切换 |
 | On-screen | `1 SHOWROOM · 3 FACTORIES` |
 
@@ -43,13 +45,13 @@ CN:
 
 | # | Timecode | English | Delivery |
 |---|---|---|---|
-| 1 | 00:00–00:03 | One showroom. Three factories. This is how food packaging sourcing works in Linyi. | Damon on camera |
-| 2 | 00:03–00:08 | This showroom is backed by three factories owned by the same company. | Damon on camera / transition to B-roll |
-| 3 | 00:08–00:15 | Each factory focuses on different product lines. | English voice-over |
-| 4 | 00:15–00:23 | So buyers can compare different packaging options here, instead of starting with factory after factory. | English voice-over |
-| 5 | 00:23–00:31 | You can build your sourcing list in the showroom first, then go deeper into the factories behind the products. | English voice-over |
-| 6 | 00:31–00:38 | It's a factory-backed, one-stop sourcing model: showroom in front, manufacturing behind it. | English voice-over |
-| 7 | 00:38–00:44 | Next, I'll take you inside the factories and show you how these products are actually made. | Damon on camera / voice-over as needed |
+| 1 | 00:00–00:03 | One showroom. Three factories. This is how food packaging sourcing works in Linyi. | `ON-CAMERA` |
+| 2 | 00:03–00:08 | This showroom is backed by three factories owned by the same company. | `ON-CAMERA` → `B-ROLL + VO` |
+| 3 | 00:08–00:15 | Each factory focuses on different product lines. | `B-ROLL + VO` |
+| 4 | 00:15–00:23 | So buyers can compare different packaging options here, instead of starting with factory after factory. | `ON-CAMERA ACTION` + `B-ROLL + VO` |
+| 5 | 00:23–00:31 | You can build your sourcing list in the showroom first, then go deeper into the factories behind the products. | `ON-CAMERA ACTION` + `B-ROLL + VO` |
+| 6 | 00:31–00:38 | It's a factory-backed, one-stop sourcing model: showroom in front, manufacturing behind it. | `B-ROLL + VO` |
+| 7 | 00:38–00:44 | Next, I'll take you inside the factories and show you how these products are actually made. | `ON-CAMERA` |
 
 ## 5. 中文理解
 
@@ -65,22 +67,15 @@ CN:
 
 ## 6. Visual Plan
 
-| Time | Visual | On-screen |
-|---|---|---|
-| 00:00–00:03 | Damon 在大量产品中间；杯 / 碗 / 餐盒等快速切 | `1 SHOWROOM · 3 FACTORIES` |
-| 00:03–00:08 | Damon 边走边说；展厅纵深 | `OWN FACTORIES` |
-| 00:08–00:15 | 至少 5–8 种明显不同的包装产品特写 | `DIFFERENT PRODUCT LINES` |
-| 00:15–00:23 | Damon 同时拿两种产品比较；不同货架切换 | `COMPARE` |
-| 00:23–00:31 | Damon 看样、记录、与展厅人员自然交流 | `BUILD YOUR SOURCING LIST` |
-| 00:31–00:38 | 展厅大全景 → 产品 → 供应链示意感镜头 | `SHOWROOM → FACTORIES → SOURCING` |
-| 00:38–00:44 | Damon 收尾 / 转身离开展厅；如已有合规工厂素材可短暂预告 | `NEXT: INSIDE THE FACTORIES` |
-
-**拍摄重点：**
-
-- Hook 必须让观众第一眼看到“一个空间里有很多不同产品”。
-- 不要只拍长得相似的餐盒；必须体现不同产品线。
-- 拍 Damon 拿货、比较、记录、交流，而不是全程空镜旁白。
-- 如拍到企业墙、工厂照片或数据，未经确认的数字不得直接用于成片。
+| Time | Delivery | Visual | On-screen |
+|---|---|---|---|
+| 00:00–00:03 | `ON-CAMERA` | Damon 在大量产品中间；杯 / 碗 / 餐盒等快速切 | `1 SHOWROOM · 3 FACTORIES` |
+| 00:03–00:08 | `ON-CAMERA` → `B-ROLL + VO` | Damon 边走边说；展厅纵深 | `OWN FACTORIES` |
+| 00:08–00:15 | `B-ROLL + VO` | 至少 5–8 种明显不同的包装产品特写 | `DIFFERENT PRODUCT LINES` |
+| 00:15–00:23 | `ON-CAMERA ACTION` + VO | Damon 同时拿两种产品比较；不同货架切换 | `COMPARE` |
+| 00:23–00:31 | `ON-CAMERA ACTION` + VO | Damon 看样、记录、与展厅人员自然交流 | `BUILD YOUR SOURCING LIST` |
+| 00:31–00:38 | `B-ROLL + VO` | 展厅大全景 → 产品 → 供应链示意感镜头 | `SHOWROOM → FACTORIES → SOURCING` |
+| 00:38–00:44 | `ON-CAMERA` | Damon 收尾 / 转身离开展厅；如已有合规工厂素材可短暂预告 | `NEXT: INSIDE THE FACTORIES` |
 
 ## 7. Facts / Products Used
 
@@ -92,14 +87,7 @@ CN:
 - 三家工厂分别负责不同产品线。
 - 不应表达成“所有产品由同一家工厂 / 同一条生产线生产”。
 
-本片不使用 / Not used：
-
-- `public_price`
-- MOQ
-- 未确认材料名称
-- 未确认工艺参数
-- 未确认的三家工厂具体名称 / supplier_id 对应关系
-- `largest / biggest / cheapest` 等最高级表述
+本片不使用：价格、MOQ、未确认材料名称、未确认工艺参数、未确认三家工厂具体名称/ID对应关系、最高级表述。
 
 ## 8. CTA
 
@@ -107,21 +95,19 @@ CN:
 |---|---|
 | CTA Type | `Soft CTA` |
 
-CTA:
+**EN:** `Next, I'll take you inside the factories and show you how these products are actually made.`
 
-**`Next, I'll take you inside the factories and show you how these products are actually made.`**
-
-目的：从 V003 的供应链结构解释，自然承接后续工厂内容。
+**CN:** `下一步，我会带你走进这些工厂，看看这些产品到底是怎么生产出来的。`
 
 ## 9. Related Videos
 
 | 关联 | 关系 |
 |---|---|
-| `V002` — What Can You Actually Buy in a Linyi Hotel Supplies Market? | V002 横向展示一次性用品存在；V003 进入食品包装供应链纵深 |
-| `V006` — How Disposable Food Bowls Are Made in China | 从“展厅 + 三工厂模式”进入具体生产流程 |
-| `V009` — Why Do Two Food Containers That Look Similar Cost Differently? | 后续回答产品差异与价格差异，V003 不展开 |
-| `V012` — Inside an Injection-Molded Food Container Factory | 后续进入另一种生产工艺 |
-| `V005` — Products, Prices & MOQ | 真实价格与 MOQ 首次正式出现，V003 不涉及 |
+| V002 | 横向展示一次性用品存在；V003 转入供应链纵深 |
+| V005 | V003 讲结构；V005 去仓库讲真实价格与 MOQ |
+| V006 | 从模式进入具体红白碗生产 |
+| V009 | 后续解释产品/价格差异 |
+| V012 | 进入注塑餐盒生产 |
 
 ## 10. Content Memory / 内容记忆
 
@@ -147,20 +133,80 @@ CTA:
 
 ## 11. Do Not Repeat
 
-以后不要再做一条视频，把主要价值重复成：
+不要再把“一个展厅 + 三家自有工厂 + 前店后厂模式”完整重复为另一条视频的主要价值。后续进入生产、价格、MOQ、定制、QC、出货等新问题。
 
-- “澳强家有一个很大的食品包装展厅”
-- “一个地方有很多一次性包装产品”
-- “一个展厅背后有三家工厂”
-- 再次完整解释“前端展厅 + 三家自有工厂分工”这一模式
+## 12. Titles & Cover / 标题与封面
 
-这些事实以后可以被简短引用，但不能再次成为整条视频的主要价值。
+### Primary Title
 
-Future videos in this series should move into different questions:
+**One Showroom. Three Factories. How Food Packaging Sourcing Works in Linyi**
 
-- 产品怎么生产
-- 不同工厂分别擅长什么
-- 为什么产品价格不同
-- 价格 / MOQ
-- customization
-- QC / shipment
+### Alternate Titles
+
+- `Why Does This Food Packaging Showroom Have So Many Products?`
+- `One-Stop Food Packaging Sourcing in Linyi, China`
+
+### Cover Text
+
+主推荐：**`1 SHOWROOM · 3 FACTORIES`**
+
+副标题：`FOOD PACKAGING · LINYI`
+
+### Cover Visual
+
+Damon 站画面中间，左右必须明显出现不同类型包装产品，不能只出现同一种餐盒货架。
+
+## 13. Shot-by-Shot Production Board / 完整分镜
+
+| Shot | 时长 | 类型 | Damon | 画面 / 动作 | 声音 |
+|---|---:|---|---|---|---|
+| S1 | 3s | `ON-CAMERA` | 真人 | 产品墙/展厅中央直视镜头 | Hook 同步口播 |
+| S2 | 3s | `ON-CAMERA ACTION` | 真人 | Damon 沿展厅走，镜头后退跟拍 | 现场声 + 台词尾部 |
+| S3 | 4s | `B-ROLL + VO` | 无需露脸 | 杯、碗、餐盒、托盘等不同产品线快速切 | VO |
+| S4 | 4s | `ON-CAMERA ACTION` + VO | 真人 | Damon 左右手各拿不同产品对比 | VO |
+| S5 | 4s | `B-ROLL + VO` | 手部 | 货架不同规格、不同用途产品 | VO |
+| S6 | 5s | `ON-CAMERA ACTION` + VO | 真人 | Damon 看样、记笔记或手机记录 | VO |
+| S7 | 5s | `ON-CAMERA ACTION` + VO | 真人 | 与展厅人员自然交流、对方递样 | VO；不必收清对话 |
+| S8 | 5s | `B-ROLL + VO` | 可选 | 展厅纵深 + 多产品线 | VO |
+| S9 | 6s | `ON-CAMERA` | 真人 | Damon 面向镜头收尾，随后转身走 | CTA 同步口播 |
+
+## 14. Publishing Caption / 发布文案
+
+### English
+
+**One showroom. Three owned factories.**
+
+This is one way disposable food packaging sourcing works in Linyi: buyers can compare different product lines in the showroom first, while specialized factories behind the business focus on different products.
+
+The point isn't that one factory makes everything. The value is the combination of one-stop selection and specialized manufacturing.
+
+Next, I'll take you deeper into the factories behind these products.
+
+### 中文理解
+
+一个展厅，背后三家自有工厂。前端集中选品，后端不同工厂分别负责不同产品线。重点不是“一家工厂什么都做”，而是一站式选品和专业制造分工结合。
+
+## 15. Hashtags / 标签
+
+`#Linyi #LinyiSourcing #BuyAgent #ChinaSourcing #SourcingAgent #FoodPackaging #ChinaFactory`
+
+## 16. Shoot & Edit Checklist / 拍摄与剪辑清单
+
+### 到现场必拍
+
+- [ ] Hook 产品背景至少能看出 3 种以上不同品类。
+- [ ] 展厅纵深 2 条。
+- [ ] 5–8 种明显不同产品特写。
+- [ ] Damon 双手对比两款产品。
+- [ ] Damon 看样 / 记录。
+- [ ] Damon 与展厅人员自然交流。
+- [ ] 收尾真人 + 转身离开。
+
+### 剪辑
+
+- [ ] 前 1 秒直接进入 `1 SHOWROOM · 3 FACTORIES`，无 Logo 片头。
+- [ ] Damon 全片至少出现 4 个镜头，不做纯旁白展厅片。
+- [ ] 每 2–3 秒有产品或动作变化。
+- [ ] 不出现“largest / biggest / cheapest”。
+- [ ] 不展示未经确认的工厂名称/所有权映射。
+- [ ] 如果企业墙有未经确认数据，裁掉或模糊。
