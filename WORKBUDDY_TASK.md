@@ -6,8 +6,9 @@
 ## 当前任务
 
 - **Task ID:** WB-002
-- **状态:** active
+- **状态:** completed
 - **创建:** 2026-09-21
+- **完成:** 2026-09-21
 - **主题:** 调研「薛辉」与短视频编导相关的方法，并为 Damon in Linyi 建立可持续更新的编导知识增量
 
 > 上一任务 WB-001（Molly + 临沂场景研究）已完成；历史内容以 Git 记录及 `01_intel/benchmark-molly-2026-09-20.md` 等文件为准。
@@ -265,3 +266,62 @@ adopted / retired
    - 最值得 ChatGPT 下一步审阅的 3–5 个结论
 
 如果 `gh` / Issue API 仍 401，不要处理 token，不阻塞任务；正常使用 `git pull / commit / push`。
+
+---
+
+## Completion Record / 完成记录 — WB-002
+
+- **完成日期:** 2026-09-21
+- **执行:** WorkBuddy
+
+### 新增 / 修改文件
+
+| 文件 | 操作 |
+|---|---|
+| `01_intel/benchmark-xuehui-directing-2026-09-21.md` | 新增（研究文件：身份核实 / 26 样本 / 12 candidate / gap analysis / 5 条待测改动 / 未验证项 / 来源索引） |
+| `03_content/directing-playbook.md` | 修改（新增第 7 节 Candidate Methods，12 条 `DIR-101`–`DIR-112`；新增第 8 节 Open Conflicts；第 6 节 Pending Research → Completed Research） |
+| `WORKBUDDY_TASK.md` | 修改（状态 `active` → `completed` + 本完成记录） |
+
+**未修改**：`positioning.md`、`03_content/scripts/` 下全部 approved 脚本、`03_content/scripts/README.md`、`03_content/backlog.md`。
+
+### 关键结论
+
+1. **身份已确认**：抖音「薛辉小清新」（抖音号 `ycdd55`），ALLIN 短视频达人训练中心创始人，
+   短视频编导 / 运营培训方向。已排除 4 个同名者（秦腔演员、影视演员、社科院副研究员、剧集角色名）。
+   粉丝数多源冲突（100 万–256 万），**百度百科 100 万口径不可采信**。
+2. **他的骨架是"四类脚本"**：晒过程 / 教知识 / 讲故事 / 聊观点。
+   **我们 V001–V006 只用了前两类。**
+3. **最高价值单条方法**：`加一条人物关系，而不是加一句文案` —— 情绪来自关系中的强弱博弈。
+   我们六条视频里第二人物只出现过一次，且不是叙事装置。
+4. **我们最大的编导缺口**：叙事是"清单式推进"。V001 有 33 秒纯 VO 数字段，
+   V002 有 30 秒六类产品清单段，V004 是编号 1–5 顺序念。
+5. **发现一处规范冲突**：DIR-112（口播不能有"台词感"、不看逐字稿）与
+   `scripts/README.md` 第 4 段（要求 `Full Script EN` 逐字稿 + timecode）直接对立。
+   已记录为 `conflict-open`（另见 C2、C3），**未自行取舍**。
+
+### 新增 candidate
+
+`DIR-101` – `DIR-112`，共 12 条，全部为 `candidate` 状态，未升级为 `testing` / `adopted`，
+未覆盖 Current Baseline。明细见 `03_content/directing-playbook.md` 第 7 节。
+
+### 仍待验证
+
+- **抖音视频页无法在无登录环境抓取**（需签名参数）→ 样本表中 primary 视频的时长/互动数据
+  来自第三方镜像与转录库，**不是 WorkBuddy 直接观测**。
+- **播客未取得完整逐字稿**（也不应复制）→ `为什么不能看逐字稿`、`事件大于情绪`
+  两条**仅有章节标题为证**。
+- **课程大纲与思维导图来自第三方转售转载，OCR 损坏** → "自然流拍摄九大禁忌"条目数未确认。
+- **未找到薛辉关于海外买家 / B2B 出海内容的直接方法论** → 本文件所有"对 Damon 的可迁移性"
+  均为 WorkBuddy 推理，不是薛辉的观点。
+- 未取得 `631 个作品数据.xlsx`（需 ima.copilot 客户端）→ 无法给出准确时长/互动分布统计。
+- 未找到薛辉在小红书 / B站 / 视频号的官方账号证据。
+
+### Git
+
+- Commit: 见本文件所在 commit（`research: map Xue Hui directing methods for Damon content`）
+- Push: `origin/main`（SSH）
+
+### 附注
+
+`gh` / GitHub Issue API 仍为 401，按任务要求**未处理 token**，全程使用 `git pull / commit / push`。
+因此本任务**未在 GitHub Issue 留言**（无 Issue 关联）。
