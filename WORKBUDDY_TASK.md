@@ -5,323 +5,330 @@
 
 ## 当前任务
 
-- **Task ID:** WB-002
-- **状态:** completed
-- **创建:** 2026-09-21
-- **完成:** 2026-09-21
-- **主题:** 调研「薛辉」与短视频编导相关的方法，并为 Damon in Linyi 建立可持续更新的编导知识增量
+- **Task ID:** WB-003
+- **状态:** active
+- **创建:** 2026-09-24
+- **主题:** TikTok 海外 sourcing / buying agent 对标账号与短视频选题研究
 
-> 上一任务 WB-001（Molly + 临沂场景研究）已完成；历史内容以 Git 记录及 `01_intel/benchmark-molly-2026-09-20.md` 等文件为准。
-
----
-
-## 1. 任务目标
-
-Damon 当前短视频体系已经具备：
-
-- buyer-question-first 选题
-- 中英双语逐字稿
-- 真人 / B-roll / VO 标注
-- 分镜
-- 封面 / Caption / Hashtags
-- 市场 / 工厂 / 价格 / buyer mission 多内容支柱
-
-下一步需要补强 **“编导能力”**：不是只把信息讲完整，而是让视频在人物调度、叙事推进、镜头设计、节奏、留存、情绪和证明感上更成熟。
-
-本任务重点研究用户指定对象：**薛辉**。
-
-**第一步必须先核实身份。**
-
-不要因为搜索结果里出现同名人物，就直接假定是 Damon 所指的短视频 / 编导领域薛辉。
+> 背景：Damon 认为当前 V008 与 V006 在“碗汇 + 红白碗 + 生产线 + 仓库”场景上的重复度过高。暂停继续定稿 V008，先扩大海外 sourcing 内容样本池，再决定 V008 之后怎么排。
 
 ---
 
-## 2. 搜索方式
+## 1. 研究目标
 
-优先使用 Ego Browser / 浏览器做公开互联网研究。
+不是再找一个“老师”照抄方法，而是回答：
 
-可组合关键词：
+1. TikTok 上真正面向海外买家的 sourcing / buying agent / China wholesale 账号，当前都在拍什么？
+2. 哪些视频结构与题材确实能同时体现：`找货能力 + 多品类 + 真实现场 + 信任 + 转化`？
+3. 哪些账号成功避免被观众误解成“只卖某一个品类”？
+4. 哪些选题适合 Damon 的 `Linyi Sourcing` 定位，且不重复 V001–V007？
+5. 我们现有内容有哪些盲区：市场、工厂、采购过程、比价、验货、物流、订单、买家任务、人物故事、供应商沟通、产业带等？
 
-- 薛辉 编导
-- 薛辉 短视频
-- 薛辉 视频编导
-- 薛辉 导演 短视频
-- 薛辉 选题
-- 薛辉 脚本
-- 薛辉 分镜
-- 薛辉 镜头
-- 薛辉 起号
-- 薛辉 IP
-- 薛辉 口播
-- 薛辉 短视频课程
-- 薛辉 抖音 / 小红书 / 视频号 / B站 / 公众号 / 访谈 / 播客
-
-如果找到账号矩阵、课程页、访谈、直播切片、文章或别人对其方法的转述：
-
-1. 尽量回到**原始发布源**；
-2. 区分 `primary source / secondary source / repost`；
-3. 无法核实的内容明确标注，不要把二手总结写成薛辉本人原话。
+研究以 TikTok 为主；Instagram Reels / YouTube Shorts 只用于补充核实，不要把研究做散。
 
 ---
 
-## 3. 样本最低要求
+## 2. 搜索范围
 
-目标：至少分析 **20 个可访问的有效样本**；如果公开可验证内容少于 20 个，则分析全部可访问样本，并明确说明样本不足。
+优先用 Ego Browser / 浏览器公开搜索 TikTok。
 
-样本可以是：
+关键词可组合：
 
-- 公开视频
-- 公开视频课程片段
-- 公开访谈
-- 公开文章
-- 公开直播回放 / 切片
-- 公开社媒帖子
+- China sourcing agent
+- China buying agent
+- sourcing from China
+- China wholesale
+- wholesale market China
+- Yiwu sourcing
+- Yiwu buying agent
+- Guangzhou sourcing
+- China factory sourcing
+- China factory tour buyer
+- supplier sourcing China
+- product sourcing China
+- import from China
+- wholesale products China
+- sourcing tips China
+- China procurement
 
-每条样本尽量记录：
+也要从一个好账号继续找：
 
-- 来源平台
-- 标题 / 主题
+- similar accounts
+- mentions / collaborations
+- hashtags
+- followers also viewed
+- 评论区里被频繁提及的同行账号（可验证时）
+
+### 排除
+
+不要把以下账号作为核心 benchmark：
+
+- 纯旅游 / 城市 Vlog
+- 纯产品卖家，只不断发 SKU
+- 纯 dropshipping 课程号
+- 纯中文国内招商号
+- 只发搬运工厂视频、没有人物或 sourcing 角色
+- 无法确认账号身份且内容大量搬运
+
+---
+
+## 3. Account 样本要求
+
+目标：至少找到 **15 个值得分析的账号**。
+
+如果真正高度相关的账号不足 15 个，可以降到 10 个，但必须解释为什么。
+
+优先级：
+
+### Tier A — 最接近 Damon
+
+- 真人长期出镜
+- 面向海外买家
+- sourcing / buying agent / procurement 定位明确
+- 会进市场 / 工厂 / 仓库
+- 有多个品类
+- 有真实询价 / 看样 / 比较 / 验货 / 订单 / 商户互动
+
+### Tier B — 某一能力特别强
+
+例如：
+
+- Hook 特别强
+- 工厂内容强
+- wholesale market 强
+- buyer mission 强
+- 多品类展示强
+- 人物 IP 强
+- 评论转询盘强
+
+Molly 可作为已有 benchmark 引用，但 **不要把 WB-001 再做一遍**。
+
+---
+
+## 4. 每个账号至少记录
+
+能直接看到才记录，看不到写 `not verified`。
+
+- account name
+- handle
+- profile URL
+- location / sourcing base（可确认时）
+- profile positioning / Bio
+- language
+- followers
+- total likes
+- 是否真人主 IP
+- 是否多品类
+- 主要拍摄场景：market / factory / warehouse / office / shipping / buyer visit / other
+- 主要内容支柱
+- CTA / lead path：DM / WhatsApp / website / bio / comment keyword 等
+- 发布频率（能验证时）
+- 最新内容活跃度
+- 最值得 Damon 学的 3 点
+- 最不适合 Damon 学的 2 点
+
+所有账号数据写明 **观察日期 2026-09-24 或实际研究日**，避免未来把粉丝量当成永久数字。
+
+---
+
+## 5. Video 样本要求
+
+每个 Tier A 账号至少拆 **5 条**视频；Tier B 至少拆 **3 条**。
+
+总样本目标 **60–100 条**。
+
+不要只挑爆款：
+
+- 近期普通内容
+- 近期表现较好内容
+- 代表性高播放内容
+
+都要有，避免只看幸存者样本。
+
+每条尽量记录：
+
+- account / handle
 - URL
-- 发布日期（可确认时）
-- 来源类型：primary / secondary / repost
-- 核心观点
-- 是否涉及编导
-- 可复用价值
-- 可信度 / 限制
+- date
+- topic
+- visible views / likes / comments / shares（看不到写 not verified）
+- duration
+- first-frame visual
+- first 3–5s hook
+- Damon 对应分类：market / factory / product / price / sourcing-process / QC / shipping / buyer-mission / story / opinion / other
+- 真人是否出镜
+- 是否有第二人物
+- 是否真实对话
+- shot / story structure
+- information progression
+- proof used：price / product / machine / warehouse / order / packaging / documents / buyer / supplier / test 等
+- CTA
+- comments 中的高频买家问题（能看到时）
+- why it may have worked（标记为 analysis，不冒充事实）
 
-**禁止复制完整课程、完整脚本、长篇逐字稿。只做摘要与方法提炼。**
-
----
-
-## 4. 重点拆解的“编导能力”
-
-不要只搜“爆款公式”。重点判断薛辉是否有可验证的方法涉及：
-
-1. `topic` — 选题为什么成立
-2. `hook` — 前 1–5 秒怎么设计
-3. `story-structure` — 信息顺序 / 叙事推进
-4. `on-camera-performance` — 真人如何说、站、走、拿产品、做动作
-5. `blocking` — 人物与场景怎么调度
-6. `shot-design` — 远 / 中 / 近 / 特写 / 运动镜头
-7. `b-roll` — B-roll 如何承担信息和证据
-8. `proof` — 产品、工厂、仓库、价格等如何形成可信度
-9. `pacing` — 镜头长度、节奏、信息密度、停顿
-10. `emotion` — 好奇 / 反差 / 风险 / 惊讶 / 选择等情绪
-11. `retention` — 如何持续给“下一个理由”让人看下去
-12. `cta` — CTA / 下一条承接
-13. `cover-title` — 封面标题与视频承诺
-14. `editing` — 字幕、音乐、自然声、转场、屏幕大字
-
-如果某个维度没有找到薛辉直接支持的公开材料，写 `not verified`，不要补脑。
+**不要复制完整逐字稿。** Hook 最多记录必要的短句或做摘要。
 
 ---
 
-## 5. 最终要回答的核心问题
+## 6. 重点专题：多品类账号到底怎么让客户相信“什么都能找”
 
-研究完成后，必须回答：
+这个部分单独分析，不能只做账号表。
 
-### A. 薛辉是谁？
+至少回答：
 
-- 是否能确认是 Damon 所说的短视频编导相关人物？
-- 主要公开账号 / 内容阵地是什么？
-- 哪些来源可信度最高？
+1. 他们是直接说 `I can source anything`，还是通过连续不同品类证明？
+2. 不同品类怎么穿插？有没有连续拍同一品类过久？
+3. 他们有没有固定的“采购动作”：问价格、拿产品、进工厂、检查包装、比较供应商等？
+4. 哪些视觉符号让观众一眼知道这是 sourcing agent，而不是产品销售？
+5. 人物 IP 与品类之间谁是主角？
+6. 如何从单条 SKU 内容拉回“我可以帮你采购”的总定位？
+7. CTA 怎么承接全品类需求？
 
-### B. 他真正反复强调的方法是什么？
+最后给 Damon 一套 **“多品类仍保持统一人物认知”的可执行建议**，但仅作为 research recommendation，不自动改项目规则。
 
-至少提炼 **10 条候选编导原则**，每条写：
+---
 
-- 原则名
-- 核心意思
-- 来源证据
-- 适用场景
-- 不适用 / 风险
-- 对 Damon in Linyi 的可迁移性
+## 7. 对 V001–V007 做 Gap Analysis
 
-### C. 和我们现在 V001–V006 对比
+读取：
 
-请读取：
-
-- `03_content/scripts/README.md`
+- `03_content/backlog.md`
+- `03_content/scripts/V001-why-linyi.md` 至 `V007-coffee-shop-setup.md`
+- `03_content/directing-tests.md`
 - `03_content/directing-playbook.md`
-- `03_content/scripts/V001-why-linyi.md`
-- `V002`–`V006` approved scripts
 
-然后机械比较：
+重点找：
 
-- 我们已经做对了什么
-- 我们明显缺什么
-- 哪些只是写了脚本，但还没有真正体现“编导”
-- 哪些镜头 / 人物动作 / 节奏设计值得升级
+- 我们已经拍 / 计划拍得太多的场景
+- 明显缺失的 sourcing 题材
+- 账号目前是否过重：食品包装 / 酒店用品
+- 哪些 benchmark 题材可以增加“多品类能力”而不变成杂乱账号
+- 哪些题材最能证明 sourcing service，而不是只证明“Damon 会拍工厂”
 
-### D. 给下一阶段可测试建议
+特别注明：**当前 V008 草稿与 V006 场景重复问题**，给出是否值得保留该题、延后、换产业带、换场景、换问题的建议。
 
-给出 **3–5 个最值得在 V007 之后立即测试的编导改动**。
-
-每个改动必须足够具体，例如：
-
-- Hook 不只改文案，而是“人物动作 + 视觉结果 + 台词”三件一起设计
-- 每 6–8 秒设置一次新的信息推进
-- 先拍结果，再回到过程
-
-以上只是格式示例，**不要把示例当研究结论**。
+WorkBuddy **不要修改 V008 approved 状态，因为它本来就没有 approved；不要自行重写脚本。**
 
 ---
 
-## 6. 写库要求
+## 8. 选题输出
 
-### 必须新增
+基于真实 benchmark 样本，至少给出：
 
-`01_intel/benchmark-xuehui-directing-2026-09-21.md`
+### A. 20 个候选 sourcing 题型
 
-内容至少包括：
+不是具体脚本，只写：
 
-- 身份核实
-- 样本表
-- 来源索引
-- 10 条候选原则
-- 与 V001–V006 的 gap analysis
-- 3–5 条下一阶段测试建议
-- 未验证项
+- buyer question
+- 为什么值得拍
+- 最佳场景
+- 需要什么真实资源
+- 与 V001–V007 的 overlap 风险
 
-### 更新 Living Playbook
+### B. Top 10 最值得 Damon 测试的格式
 
-读取并更新：
+例如可能是：
 
-`03_content/directing-playbook.md`
+- real sourcing mission
+- market challenge
+- seller dialogue
+- compare two suppliers
+- QC fail / pass
+- packing / loading
+- buyer request to result
 
-将研究中值得保留的方法以 **`candidate`** 状态加入。
+以上只是格式示例，**必须以研究结果为准，不要把示例当结论。**
 
-规则：
+### C. V008 的 5 个替代方向
 
-- WorkBuddy **只能新增 candidate**
-- 不得自行改成 `testing` / `adopted`
-- 不得覆盖 Current Baseline
-- 不得直接修改任何 approved 脚本
-- 不得自行修改 `03_content/scripts/README.md` 的生产规范
+要求：
 
-Damon + ChatGPT 后续决定：candidate → testing → adopted / retired。
-
----
-
-## 7. 这次同时验证“可持续更新系统”
-
-本项目现在不再追求一份永远不变的方法论，而采用：
-
-```text
-外部研究 / 现场经验 / 发布数据
-↓
-research file
-↓
-candidate
-↓
-ChatGPT 判断
-↓
-Damon 决定测试
-↓
-testing
-↓
-真实视频 + 04_performance 数据
-↓
-复盘
-↓
-adopted / retired
-```
-
-本次研究就是第一轮正式验证这个循环。
-
-请重点检查这个机制是否足够简单、能长期执行；如发现明显问题，可以在研究文件最后写 `System Improvement Suggestions`，**只提建议，不自行改规则**。
+- 不再以碗汇红白碗生产线作为主场景
+- 尽量换品类 / 换产业带 / 换 sourcing 动作
+- 每个给：Hook idea + 场景 + 核心买家问题 + 为什么比当前 V008 更好
 
 ---
 
-## 8. 边界
+## 9. 输出文件
+
+必须新增：
+
+`01_intel/benchmark-sourcing-tiktok-2026-09-24.md`
+
+建议内容：
+
+1. Executive Summary
+2. Account shortlist / tiers
+3. Account data table
+4. Video sample table
+5. High-performing format patterns
+6. Multi-category positioning analysis
+7. V001–V007 gap analysis
+8. 20 topic patterns
+9. Top 10 formats for Damon
+10. 5 alternatives for V008
+11. Limitations / data quality
+12. Source index
+
+如果内容过长，可以再拆：
+
+`01_intel/sourcing-topic-bank-2026-09-24.md`
+
+但不要为了分文件而过度拆分。
+
+---
+
+## 10. 数据与证据规则
+
+沿用 WB-002 的证据意识：
+
+- A = 账号本人 / 平台直接可见
+- B = 官方 / 高可信第三方
+- C = 一般第三方整理
+- D = AI / 搬运 / 不可核来源
+
+账号和视频数据尽量用 A。
+
+- 不可见就写 `not verified`
+- 不把第三方估算当 TikTok 官方数据
+- 不把一次高播放直接解释成因果
+- `why it worked` 必须明确是分析
+- 对标账号的价格 / 供应商信息不得写进我们的 supplier 库
+
+---
+
+## 11. 写库边界
 
 - 遵守 `AGENTS.md`
-- 不写客户 / 供应商敏感信息
-- 不写 internal_cost
-- 不复制付费课程全文、完整脚本、长篇逐字稿
-- 不把二手转述冒充原话
-- 不因为某个老师的方法流行就自动升级成我们的标准
-- Damon 的真实账号数据优先于外部方法论
-- 不修改任何 `approved` 脚本
 - 不修改 `positioning.md`
-- 不自行改变品牌定位
+- 不修改任何 `approved` 脚本
+- 不自行把外部方法升级为 `adopted`
+- 不自动改 `scripts/README.md`
+- 不自动改 V008 脚本
+- 不因为 benchmark 爆款就复制标题 / 文案 / 完整脚本
+- 研究的是**机制、题型、内容结构和市场反馈**
 
 ---
 
-## 9. 完成标准
+## 12. 完成标准
 
 完成后：
 
-1. 本文件 `状态: active` → `状态: completed`
-2. 文末追加 Completion Record：
-   - 完成日期
-   - 新增 / 修改文件
-   - 关键结论
-   - 仍待验证
-   - Git commit SHA
-3. `git commit` + `git push`
+1. `状态: active` → `completed`
+2. 文末追加 Completion Record
+3. commit + push
 4. 告诉 Damon：
    - 研究文件路径
-   - 你新增了哪些 candidate
-   - 最值得 ChatGPT 下一步审阅的 3–5 个结论
+   - 最值得看的 5 个 benchmark 账号
+   - 5 个最重要发现
+   - 5 个 V008 替代方向
+   - 哪些结论受 TikTok 登录 / 地区 / 数据可见性限制
 
-如果 `gh` / Issue API 仍 401，不要处理 token，不阻塞任务；正常使用 `git pull / commit / push`。
+如果 `gh` / Issue API 有问题，不要浪费时间修；正常 `git pull / commit / push`。
 
 ---
 
-## Completion Record / 完成记录 — WB-002
+## 历史任务
 
-- **完成日期:** 2026-09-21
-- **执行:** WorkBuddy
-
-### 新增 / 修改文件
-
-| 文件 | 操作 |
-|---|---|
-| `01_intel/benchmark-xuehui-directing-2026-09-21.md` | 新增（研究文件：身份核实 / 26 样本 / 12 candidate / gap analysis / 5 条待测改动 / 未验证项 / 来源索引） |
-| `03_content/directing-playbook.md` | 修改（新增第 7 节 Candidate Methods，12 条 `DIR-101`–`DIR-112`；新增第 8 节 Open Conflicts；第 6 节 Pending Research → Completed Research） |
-| `WORKBUDDY_TASK.md` | 修改（状态 `active` → `completed` + 本完成记录） |
-
-**未修改**：`positioning.md`、`03_content/scripts/` 下全部 approved 脚本、`03_content/scripts/README.md`、`03_content/backlog.md`。
-
-### 关键结论
-
-1. **身份已确认**：抖音「薛辉小清新」（抖音号 `ycdd55`），ALLIN 短视频达人训练中心创始人，
-   短视频编导 / 运营培训方向。已排除 4 个同名者（秦腔演员、影视演员、社科院副研究员、剧集角色名）。
-   粉丝数多源冲突（100 万–256 万），**百度百科 100 万口径不可采信**。
-2. **他的骨架是"四类脚本"**：晒过程 / 教知识 / 讲故事 / 聊观点。
-   **我们 V001–V006 只用了前两类。**
-3. **最高价值单条方法**：`加一条人物关系，而不是加一句文案` —— 情绪来自关系中的强弱博弈。
-   我们六条视频里第二人物只出现过一次，且不是叙事装置。
-4. **我们最大的编导缺口**：叙事是"清单式推进"。V001 有 33 秒纯 VO 数字段，
-   V002 有 30 秒六类产品清单段，V004 是编号 1–5 顺序念。
-5. **发现一处规范冲突**：DIR-112（口播不能有"台词感"、不看逐字稿）与
-   `scripts/README.md` 第 4 段（要求 `Full Script EN` 逐字稿 + timecode）直接对立。
-   已记录为 `conflict-open`（另见 C2、C3），**未自行取舍**。
-
-### 新增 candidate
-
-`DIR-101` – `DIR-112`，共 12 条，全部为 `candidate` 状态，未升级为 `testing` / `adopted`，
-未覆盖 Current Baseline。明细见 `03_content/directing-playbook.md` 第 7 节。
-
-### 仍待验证
-
-- **抖音视频页无法在无登录环境抓取**（需签名参数）→ 样本表中 primary 视频的时长/互动数据
-  来自第三方镜像与转录库，**不是 WorkBuddy 直接观测**。
-- **播客未取得完整逐字稿**（也不应复制）→ `为什么不能看逐字稿`、`事件大于情绪`
-  两条**仅有章节标题为证**。
-- **课程大纲与思维导图来自第三方转售转载，OCR 损坏** → "自然流拍摄九大禁忌"条目数未确认。
-- **未找到薛辉关于海外买家 / B2B 出海内容的直接方法论** → 本文件所有"对 Damon 的可迁移性"
-  均为 WorkBuddy 推理，不是薛辉的观点。
-- 未取得 `631 个作品数据.xlsx`（需 ima.copilot 客户端）→ 无法给出准确时长/互动分布统计。
-- 未找到薛辉在小红书 / B站 / 视频号的官方账号证据。
-
-### Git
-
-- Commit: 见本文件所在 commit（`research: map Xue Hui directing methods for Damon content`）
-- Push: `origin/main`（SSH）
-
-### 附注
-
-`gh` / GitHub Issue API 仍为 401，按任务要求**未处理 token**，全程使用 `git pull / commit / push`。
-因此本任务**未在 GitHub Issue 留言**（无 Issue 关联）。
+- WB-001 — Molly + 临沂场景研究，completed 2026-09-20
+- WB-002 — 薛辉短视频编导研究，completed 2026-09-21
