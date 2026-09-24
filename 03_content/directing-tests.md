@@ -15,6 +15,20 @@ Damon + ChatGPT 已确认：从 V007 起，不整套照搬薛辉方法，只测�
 | DT-004 | DIR-112 / No script-reading feel | testing | V007 | 保留 Full Script 作为准确事实底稿，同时增加 Spoken Version 供 Damon 现场自然表达 | 真人自然度 / 前 3 秒留存 |
 | DT-005 | Gap G1/G6 / Information progression | testing | V007 | 每约 6–8 秒必须推进一个新问题 / 新答案 / 新证据 / 新判断，不允许长时间清单式 VO | 平均观看时长 |
 
+## 2026-09-24 — V008 Supplier Verification Continuation
+
+V008 继续测试 DT-001 / DT-002 / DT-004 / DT-005，但**不为了形式强制 DT-003**。
+
+原因：V008 的核心任务是“验证供应商制造身份”，主叙事应该由 `具体产品 → 生产线 → 能力边界 → 成品证据 → Damon 判断` 推进。只有工厂人员愿意且回答有事实价值时，才加入真人问答。
+
+| Test ID | V008 执行方式 | 观察重点 |
+|---|---|---|
+| DT-001 | Damon 手拿具体产品，第一句话同时走向 / 指向生产线 | 前 3 秒是否比纯语言 Hook 更稳 |
+| DT-002 | 把视频拍成“我正在核实”，而不是“我来教你三点” | 平均观看时长 |
+| DT-003 | optional：只在真实工厂人员愿意并有信息量时加入 | 不强制；观察对话段掉点 / 提升 |
+| DT-004 | Full Script 负责准确；Damon 真人用短 Spoken Version | 真人自然度 |
+| DT-005 | claim → show me where → product/line match → capability → finished goods → judgment | 完播率 / 中段留存 |
+
 ## B2B Safety Filter / B2B 过滤器
 
 以下内容**不进入本轮 testing**：
@@ -24,6 +38,7 @@ Damon + ChatGPT 已确认：从 V007 起，不整套照搬薛辉方法，只测�
 - 强迫商户给预设答案
 - 把“对立采访”机械用于合作供应商
 - 60/20/20 内容比例作为硬规则
+- 把 `factory` 自动等于“好供应商”或把 `trading company` 自动等于“坏供应商”
 
 我们的张力优先来自：
 
@@ -33,6 +48,7 @@ Damon + ChatGPT 已确认：从 V007 起，不整套照搬薛辉方法，只测�
 - 认知反差
 - 真实人物任务
 - 真实现场事件
+- 可验证的供应链证据
 
 ## Review Rule / 复盘规则
 
