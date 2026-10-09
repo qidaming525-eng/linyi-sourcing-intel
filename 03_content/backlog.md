@@ -158,15 +158,19 @@
 
 ## V008
 
-**Factory or Trading Company? Here's How I Check.**
-**工厂还是贸易公司？我是怎么判断的？**
+**Inside a Used Farm Machinery Market in Linyi, China**
+**临沂郯城这个二手农机市场，到底是什么样？**
 
-- pillar: `sourcing-knowledge / trust`
-- status: `planned`
-- 核心角度：真实展示 Damon 如何判断供应商 —— 生产线、原料、库存、产品能力、MOQ、customization、谁真正生产产品
-- 核心问题：**Who actually makes the product?**
-- 边界：不是攻击贸易公司
-
+- pillar: `market / sourcing-process / real-interaction`
+- status: `draft`（2026-10-09 重做方向，待 Damon 最终确认）
+- 草稿脚本：`03_content/scripts/V008-xuputan-used-farm-machinery-market.md`
+- 研究底稿：`01_intel/xuputan-used-farm-machinery-market-2026-10-09.md`
+- 拍摄地点：郯城县胜利镇徐蒲坦二手农机交易聚集区（正式门头以现场标识为准）
+- 核心问题：**What does the Xuputan used farm machinery market look like, and how would Damon check one machine as a buyer?**
+- 核心结构：约 2 公里市场尺度 Hook → 选一台真实机器 → 问商户年份/型号/能否启动 → 现场真实测试/查看 → Damon 做 buyer-side sourcing 判断。
+- 公开事实边界：约 2 公里、约三十年交易历史可用；不直接使用“全国最大”等最高级作为 Damon 自己的结论。
+- 现场边界：具体机器、年份、型号、价格、工时、维修史、可否启动、出口可行性全部以现场真实核实为准。
+- 旧 V008 “Factory or Trading Company / 碗汇验证”草稿已因与 V006 场景重复而撤下，不再执行。
 ## V009
 
 **Why Do Two Food Containers That Look Similar Cost Differently?**
