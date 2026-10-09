@@ -1,18 +1,18 @@
 # V008 — Inside a Used Farm Machinery Market in Linyi, China
 
-> Draft production package. This V008 replaces the previous Wanhui factory-verification draft because Damon identified excessive visual overlap with V006.
+> Approved production package. This V008 replaces the previous Wanhui factory-verification draft because Damon identified excessive visual overlap with V006.
 > Research basis: 01_intel/xuputan-used-farm-machinery-market-2026-10-09.md.
-> Status remains draft until Damon approves the complete package.
+> Damon approved the direction and complete production package on 2026-10-09.
 
 ## 1. Metadata
 
 video_id: V008
-status: draft
+status: approved
 title_en: Inside a Used Farm Machinery Market in Linyi, China
 title_cn: 临沂郯城这个二手农机市场，到底是什么样？
 pillar: market / sourcing-process / real-interaction
 category: used-agricultural-machinery
-approved_date: null
+approved_date: 2026-10-09
 planned_location: 郯城县胜利镇徐蒲坦二手农机交易聚集区（正式门头以现场标识为准）
 delivery_mode: visual-scale-hook + on-camera-action + real-seller-dialogue + b-roll-natural-sound + on-camera-summary
 target_length: 45-55s
@@ -284,12 +284,9 @@ A used farm machine isn't just a model number. I went to Xuputan in Linyi and ch
 - [ ] 若拍到客户、车牌、联系方式、订单单据，必要时遮挡。
 - [ ] 不做“买回去就能直接出口”的暗示。
 
-## 17. Approval Gate
+## 17. Approval Record
 
-转 approved 前 Damon 只需确认：
-
-1. 是否认可 V008 的主角度：市场尺度 + 真实挑一台机器做 buyer-style check；
-2. 是否大概率能找到一位愿意露脸/留原声的二手农机商户；
-3. 是否计划公开真实价格（可选，不影响主结构）。
-
-具体机器、具体型号、商户答案、是否能启动，全部以拍摄当天真实情况为准。
+- ✅ Damon approved V008 on 2026-10-09.
+- ✅ Approved angle: market scale + pick one real machine + buyer-style check.
+- ✅ Specific machine, seller answers, price, operating condition and testability remain shoot-day facts and must not be pre-written.
+- ✅ Price remains optional and can only be published with seller permission and clear quote conditions.
