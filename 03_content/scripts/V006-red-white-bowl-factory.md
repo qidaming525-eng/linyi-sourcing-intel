@@ -1,7 +1,7 @@
 # V006 — How Red-and-White Food Bowls Are Made in Linyi, China
 
 > Approved production package. Based on Damon-confirmed access to Wanhui factory, warehouse, production workshop, and filming beside the production line.
-> Damon approved the script and shoot logic on 2026-09-20.
+> Damon approved the script and shoot logic on 2026-09-21.
 
 ## 1. Metadata
 
@@ -12,7 +12,7 @@ title_en: "How Red-and-White Food Bowls Are Made in Linyi, China"
 title_cn: "临沂工厂里的红白双色餐碗，是怎么生产出来的？"
 pillar: factory / manufacturing
 category: disposable-food-packaging / thermoformed-bowl
-approved_date: 2026-09-20
+approved_date: 2026-09-21
 planned_location: 碗汇工厂（SUP-PACK-002）— 生产车间 + 仓库
 planned_resource: red-and-white food bowl production line
 delivery_mode: on-camera-hook + b-roll-voiceover + on-camera-ending
@@ -51,8 +51,8 @@ CN:
 | 3 | 00:09–00:16 | The material enters the thermoforming line, and this is where the bowl takes shape. | `B-ROLL + VO` |
 | 4 | 00:16–00:23 | Then the finished bowls come off the line and move into the next handling step. | `B-ROLL + VO` |
 | 5 | 00:23–00:31 | Here, I want to see how the factory stacks, checks, and packs the finished bowls before they leave production. | `ON-CAMERA ACTION` + `B-ROLL + VO` |
-| 6 | 00:31–00:38 | After packing, the finished cartons move into the warehouse, ready for the next order. | `B-ROLL + VO` |
-| 7 | 00:38–00:45 | This is the manufacturing side behind the products buyers see in the showroom and warehouse. I'll keep taking you inside real factories in Linyi. | `ON-CAMERA` |
+| 6 | 00:31–00:38 | After packing, the finished cartons are stored in the warehouse. | `B-ROLL + VO` |
+| 7 | 00:38–00:45 | A simple disposable food bowl has a real production process behind it. I'll keep taking you inside real factories in Linyi. | `ON-CAMERA` |
 
 ### Script boundary
 
@@ -69,8 +69,8 @@ CN:
 | 3 | 00:09–00:16 | 原料进入吸塑生产线后，餐碗就在这里完成成型。 |
 | 4 | 00:16–00:23 | 成型后的餐碗从生产线上出来，再进入下一道处理环节。 |
 | 5 | 00:23–00:31 | 我接着看工厂是怎么把成品进行堆叠、检查和包装的。拍摄当天以真实工序为准。 |
-| 6 | 00:31–00:38 | 包装完成后，成品纸箱进入仓库，等待后续订单和出货。 |
-| 7 | 00:38–00:45 | 这就是买家在展厅和仓库里看到的产品背后的生产端。接下来我还会继续带你走进临沂真实的工厂。 |
+| 6 | 00:31–00:38 | 包装完成后，成品纸箱进入仓库存放。 |
+| 7 | 00:38–00:45 | 一个看起来简单的一次性餐碗，背后也有真实的生产流程。接下来我还会继续带你走进临沂真实的工厂。 |
 
 ## 6. Visual Plan / 视觉结构
 
@@ -206,7 +206,7 @@ Future Wanhui videos should move into different questions, for example:
 
 **YouTube Shorts:**
 
-`How Disposable Food Bowls Are Made | Linyi Factory Tour`
+`How Disposable Food Bowls Are Made | Linyi, China`
 
 ### Cover text
 
@@ -250,7 +250,7 @@ Future Wanhui videos should move into different questions, for example:
 
 ### English caption
 
-`This red-and-white disposable food bowl is made on a real thermoforming line in Linyi, China. I can film right beside the line at Wanhui, so instead of just showing a factory sign, I'm following the product from production to packing and the finished-goods warehouse. More real factories and sourcing from Linyi coming next.`
+`This red-and-white disposable food bowl is made on a real thermoforming line in Linyi, China. Instead of just showing a factory sign, I'm following the product from production to packing and the finished-goods warehouse. More real factories and sourcing from Linyi coming next.`
 
 ### 中文理解
 
