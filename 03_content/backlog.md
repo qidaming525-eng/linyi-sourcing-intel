@@ -13,7 +13,7 @@
 由 Damon + ChatGPT 确认，backlog 从 6 条规划扩展为 **V001–V012**，并统一启用新状态体系。
 
 - **V001** — 脚本已批准 → 状态 `approved`，正文已入库 `03_content/scripts/V001-why-linyi.md`。
-- **V002–V012** — 新规划选题 → 初始状态 `planned`。其中 **V002 已于 2026-09-18 转为 `approved`；V003、V004、V005、V006 已于 2026-09-20 转为 `approved`；V007 已于 2026-09-21 转为 `approved`**。
+- **V002–V012** — 新规划选题 → 初始状态 `planned`。其中 **V002 已于 2026-09-18 转为 `approved`；V003、V004、V005 已于 2026-09-20 转为 `approved`；V006、V007 已于 2026-09-21 转为 `approved`；V008 已于 2026-10-09 转为 `approved`**。
 - 旧状态标签（`needs-script` / `needs-market` / `needs-market-data` / `needs-supplier` / `waiting-real-case` / `waiting-real-qc-case`）**停用**，统一改用 `03_content/scripts/README.md` 中的 7 状态体系（`idea` / `planned` / `draft` / `approved` / `shot` / `published` / `retired`）。
 
 **旧标题去向 / Previous titles（历史记录，非当前状态）**
@@ -131,7 +131,7 @@
 **临沂工厂里的红白双色餐碗，是怎么生产出来的？**
 
 - pillar: `factory / manufacturing`
-- status: `approved`（2026-09-20 批准）
+- status: `approved`（2026-09-21 批准）
 - 定稿脚本：`03_content/scripts/V006-red-white-bowl-factory.md`
 - 工厂：碗汇（`SUP-PACK-002`）
 - 拍摄资源：生产车间 + 仓库；Damon 可在生产线安全位置旁真人拍摄。
@@ -162,8 +162,8 @@
 **临沂郯城这个二手农机市场，到底是什么样？**
 
 - pillar: `market / sourcing-process / real-interaction`
-- status: `draft`（2026-10-09 重做方向，待 Damon 最终确认）
-- 草稿脚本：`03_content/scripts/V008-xuputan-used-farm-machinery-market.md`
+- status: `approved`（2026-10-09 批准）
+- 定稿脚本：`03_content/scripts/V008-xuputan-used-farm-machinery-market.md`
 - 研究底稿：`01_intel/xuputan-used-farm-machinery-market-2026-10-09.md`
 - 拍摄地点：郯城县胜利镇徐蒲坦二手农机交易聚集区（正式门头以现场标识为准）
 - 核心问题：**What does the Xuputan used farm machinery market look like, and how would Damon check one machine as a buyer?**
