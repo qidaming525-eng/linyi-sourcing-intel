@@ -173,23 +173,20 @@
 - 旧 V008 “Factory or Trading Company / 碗汇验证”草稿已因与 V006 场景重复而撤下，不再执行。
 ## V009
 
-**Why Do Two Food Containers That Look Similar Cost Differently?**
-**为什么两个看起来差不多的餐盒，价格会不一样？**
+**A Buyer From Ghana Visits a Food Packaging Factory in China**
+**加纳客户来到临沂，我们带他实地看餐盒工厂**
 
-- pillar: `price / product-comparison`
-- status: `planned`
-- 工厂 / 资源：嘉澳（拍摄目标 / film target）
-- 核心角度：以 MFPP 餐盒为真实案例，重点回答 **Why does the price differ?**
-- 数据边界：具体差异**必须以后根据真实工厂数据填写，不得提前猜**
+- pillar: `buyer-mission / real-client-visit / trust`
+- status: `draft`（2026-11-22 新增，待 Damon 最终批准）
+- 草稿脚本：`03_content/scripts/V009-ghana-buyer-factory-visit.md`
+- 拍摄日期：计划 2026-11-22 下午（中国本地时间）
+- 拍摄地点：碗汇工厂（SUP-PACK-002），仓库 + 生产线 + 样品间；公开片可不提工厂名
+- 人物：Damon + 来自 Ghana 的客户 + Damon 团队；工厂人员视真实许可参与
+- 核心问题：**What does a real on-the-ground sourcing factory visit look like for a buyer from Ghana?**
+- 核心结构：客户到厂 + 团队同行 → 看仓库实物 → 看生产线真实场景 → 样品间对比 → 客户真实问题 → Damon sourcing CTA（顺序以现场为准）。
+- 与 V006 区分：**买家和团队的实际采购动作是主体**；不再重复碗汇生产工艺教程。
+- 边界：身份/国籍/声音发布须客户许可；工厂拍摄许可；无未确认价格、MOQ、认证、检验结论、成交承诺等。
 
-### Terminology Note
-
-`MFPP` 为 Damon 当前提供的工厂术语。正式脚本编写前必须由嘉澳确认：
-
-- 准确英文名称
-- 材料/工艺定义
-
-WorkBuddy 不自行扩写或猜测 `MFPP` 的含义。
 
 ## V010
 
@@ -240,3 +237,9 @@ WorkBuddy 不自行扩写或猜测 `MFPP` 的含义。
 - status: `planned`
 - dependency: `real-qc-case-required`
 - 内容：真实 QC / 问题订单，展示问题 → 检查 → 怎么处理
+
+### Why Do Two Food Containers That Look Similar Cost Differently? / 为什么两个看起来差不多的餐盒价格不同？
+
+- status: `planned`（原 V009，2026-11-22 为真实加纳客户到访让出编号）
+- 工厂 / 资源：嘉澳；MFPP 产品术语与真实价格差异、材料/工艺必须后续核实。
+- 不取消这个题；待新的真实对比数据与可拍资源确认后再重新排期。
