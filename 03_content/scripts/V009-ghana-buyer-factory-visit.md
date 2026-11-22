@@ -1,280 +1,260 @@
 # V009 — A Buyer From Ghana Visits a Food Packaging Factory in China
 
-> Draft production package for 2026-11-22 factory visit with a buyer from Ghana, Damon, and Damon's team.
-> Wanhui / 碗汇 is the confirmed location; public-facing copy omits the supplier name by default.
-> This is an actual buyer-visit story, NOT another general manufacturing process tour. Client consent and observed facts govern final edit.
-> Status: draft; Damon has not yet approved the finished package.
+> 2026-11-22 revised draft. User correction: **V001–V003 filmed only; V004–V008 approved but not filmed**. V006 has NOT been filmed. Do not suggest otherwise.
+> Today: Damon + Ghana buyer + Damon's team visiting Wanhui / 碗汇. Warehouse, production area and sample room are the planned visit; final edit must follow actual footage and actual interactions.
+> Editorial format locked for this version: **short English on-camera opening + AI English narrator voice-over + original location sound / genuine buyer dialogue**. No AI voice pretending to be the customer.
+> Status: draft — not yet user-approved.
 
 ## 1. Metadata
 
-```yaml
 video_id: V009
 status: draft
-title_en: "A Buyer From Ghana Visits a Food Packaging Factory in China"
-title_cn: "加纳客户来到临沂，我们带他实地看餐盒工厂"
-pillar: buyer-mission / real-client-visit / trust
-category: food-packaging / buyer-factory-visit
+title_en: A Buyer From Ghana Visits a Food Packaging Factory in China
+title_cn: 加纳客户来临沂看餐盒工厂，我和团队陪他看什么？
+pillar: buyer-visit / sourcing-service / real-client-story
+category: food-packaging
 approved_date: null
 planned_shoot_date: 2026-11-22
-planned_location: 碗汇工厂（SUP-PACK-002），仓库/生产线/样品间
-public_factory_name: omit-by-default
-primary_format: vertical 9:16
-target_length: 55-65s
-delivery_mode: Damon-on-camera + client-team-actions + authentic-dialogue + b-roll-nat-sound + VO
-```
+planned_location: 碗汇工厂（SUP-PACK-002）：仓库、生产线、样品间
+public_factory_name: optional / default omit
+format: vertical 9:16
+target_length: 85-100s (edit by actual footage quality; not a mandatory duration)
+delivery_mode: Damon on-camera English opening (5–8s) → AI English VO for factual narrative → genuine local dialogues / natural sounds → AI VO closing
+evidence_boundary: on-site buyer visit, NOT certified factory audit, NOT sale/contract
 
 ## 2. Core Promise / 核心承诺
 
-EN: An overseas buyer arrives in Linyi with Damon and his team to visit a real food packaging factory. The video shows what they actually do together: look at finished products and packing in the warehouse, watch the production line, compare samples, and raise questions. The content proves Damon provides on-the-ground sourcing support—not that a contract was signed or the factory passed a formal audit.
+EN:
+An overseas buyer comes to Linyi for a real factory visit. Damon and his team help the buyer look at tangible products and warehouse packaging, see the actual production environment, compare available samples, ask questions and identify what still needs confirming. The main story is the real buyer and Damon's sourcing support, not the factory's manufacturing process.
 
-CN: 一位加纳客户来临沂，Damon 带团队陪同真实看厂。看仓库实物和包装、进车间看实际生产、去样品间对比规格，并记录客户提出的问题。重点是 Damon 的采购陪同与沟通能力，不是宣传“已成交”“验厂通过”或重复 V006 的生产流程。
+CN:
+不是再拍一次“红白碗怎么生产”。用真实加纳买家+团队的同行动作，讲透海外采购为什么值得到现场：看实物和包装、看产线、进样品间比较、把疑问和下一步核实事项留下。不得假设客户已经满意、认证工厂或签单。
 
-## 3. Hook / 前 3–5 秒
+## 3. Hook / English On-Camera Opening
 
-Full Script EN: Today, I'm taking a buyer from Ghana to visit a food packaging factory here in Linyi, China.
+主版（真人建议拍 2 遍，简单清晰）：
+EN: Today, I'm taking a buyer from Ghana to visit a food packaging factory here in Linyi, China.
+CN: 今天我带一位加纳买家来临沂实地看一家餐盒工厂。
 
-中文理解：今天我带着一位来自加纳的客户，去中国临沂的一家食品包装工厂实地看看。
+更短现场版：
+EN: A buyer from Ghana is here with us today. Let's see the factory.
+CN: 今天一位加纳买家跟我们一起来了，带大家去看看工厂。
 
-Spoken Version: A buyer from Ghana is here with us today. Let's see the factory.
+画面：第一秒有 Damon + 客户（已授权时）+ 工厂实景，边走边说；不必再拍后半段英文真人口播。
+屏幕：GHANA BUYER · REAL FACTORY VISIT / LINYI, CHINA
+备注：客户不允许公开国籍时，所有提及 Ghana 的字幕、口播和配音必须改成 overseas buyer；如无法重录开场，后期用不含国籍的 VO 替换开场声音。
 
-视觉：第一帧 Damon + 客户（已同意露脸时）+ 工厂实景，同一镜头边走或拿起实物；不要排队挥手、拍门头或做国旗动画。
-On-screen: GHANA BUYER · FACTORY VISIT / LINYI, CHINA
+## 4. Full Script EN / 剪辑版英文全稿
 
-备选 Hook（需要客户本人授权使用）：This is what a real sourcing visit looks like when a buyer comes to Linyi.
-注意：如客户不愿公开国籍或身份，则整个成片改为 overseas buyer / 海外买家。
+> 这是拍摄前的候选配音。**只有真实拍到/确认发生的内容才可保留过去式陈述**。若实际进厂顺序不同，移动段落并修改 next / first 等词。
+> 真人英文只录第一段；后续所有 NARRATOR 均为 AI 配音；客户与工厂人员的发言全部保留真人原声，不能合成或捏造其声音。
 
-## 4. Full Script EN / 英文逐段准确稿
+| 时间 | 类型 | English script | 画面 |
+|---|---|---|---|
+| 00:00–00:07 | ON-CAMERA · DAMON | **Today, I'm taking a buyer from Ghana to visit a food packaging factory here in Linyi, China.** | Damon 和客户同行进入厂区 / 看产品 |
+| 00:07–00:18 | B-ROLL + AI VO | **My team is here with us. For an overseas buyer, a factory visit is about more than seeing machines. It's a chance to look at real products and ask questions face to face.** | 团队引导、客户进入、真实沟通 |
+| 00:18–00:34 | B-ROLL + AI VO | **We start in the warehouse. Here, we can look at the finished products, the cartons, and how the goods are packed. These details matter when you're planning a real order.** | 成品仓库广角→客户指实物→包装或外箱近景（确实看到才用） |
+| 00:34–00:50 | B-ROLL + AI VO / NAT SOUND | **Next, we visit the production area. We can see the actual working environment and ask the factory team how the products are made. Seeing a production line is helpful, but it doesn't answer every buying question.** | 客户/团队站安全位置看生产；机器声停顿 |
+| 00:50–01:07 | B-ROLL + AI VO | **In the sample room, the details are easier to compare. Size, shape, and packaging can all affect what a buyer chooses. We look at the options available here and discuss what might fit the buyer's needs.** | 客户拿样→实际两款比较→团队指规格/记要点 |
+| 01:07–01:16 | REAL DIALOGUE + NAT SOUND | **Damon (optional live): Which one would you like to check more closely?** [REAL CLIENT ANSWER — do not write in advance] | 一段真实问答，保留对方真实英文/中文及准确字幕 |
+| 01:16–01:28 | B-ROLL + AI VO | **My role is to keep the visit useful: help the buyer communicate, make sense of the options, and note what still needs to be confirmed before making a decision.** | Damon 与客户交流、团队解释或真实记录；未发生某项则删相应语句 |
+| 01:28–01:39 | B-ROLL + AI VO · CTA | **That's what on-the-ground sourcing looks like to me. If you're looking for products in China, send me what you need. I'll help you explore the options here in Linyi.** | 真实客户继续看样或走出样品间→Damon侧身/远景→收尾 |
 
-| 时间 | English / Dialogue | Delivery |
-|---|---|---|
-| 0–5s | **Today, I'm taking a buyer from Ghana to visit a food packaging factory here in Linyi, China.** | ON-CAMERA + ACTION |
-| 5–10s | **My team is with us, too. We're here to look at the products and ask questions in person.** | B-ROLL + VO，团队自然入镜 |
-| 10–18s | **First, the warehouse. We look at the finished goods and how they're packed.** | B-ROLL + VO，客户真实查看产品/外箱 |
-| 18–29s | **Then we visit the production line. It's a chance to see the actual manufacturing environment and ask how these products are made.** | B-ROLL + NAT SOUND / VO，客户与团队观察生产线 |
-| 29–39s | **In the sample room, we can compare the sizes, shapes, and options side by side.** | B-ROLL + VO，客户拿起两款真实样品；如现场无对应多规格改为“look closely at the samples” |
-| 39–47s | [REAL BUYER QUESTION OR TEAM FOLLOW-UP] **Damon (English, optional): Which one would you like to check more closely?** Retain a genuine 2–4s reply; never prewrite customer's answer. | ON-CAMERA DIALOGUE / NAT SOUND |
-| 47–54s | **For me, sourcing is more than sending photos. It's helping buyers see the products and ask the right questions on the ground.** | ON-CAMERA |
-| 54–63s | **If you're looking for products in China, tell me what you need. I'll help you find where to start in Linyi.** | ON-CAMERA |
+### Clip-safe phrasing rules
 
-### 现场应变
+- 在仓库没有打开纸箱就不要配“we checked what's inside each carton”。只说 looked at products/cartons/packing。
+- 如果客户没问生产问题，改为“we had a chance to see the production area”，不能说“we confirmed how the products are made”。
+- 样品间若没有不同 size/shape/packing 对比，改为“we look closely at the samples on display”。
+- 如没有现场问答，将 01:07–01:16 替换为买家真实查看样品及 AI VO：“When buyers visit in person, they can point to exactly what they want to know.”
+- 若客户不同意自己的真实声音被公开，只用 Damon/团队已获授权的声音或 AI 叙述，不要伪造客户语句。
+- 影片里没有购买成交行为，不说“the buyer chose / approved / placed an order”。
+- 如到访顺序不是仓库→车间→样品间，按真实顺序重排。
+- 正式发布时配音英文总长和每段时长须按剪辑重估，不为了表格 timecode 截断语义。
 
-- 如果实际参观顺序不同：按真实顺序调整 first / then / finally，不能剪成虚假的访问过程。
-- 如果现场未看“包装”或样品未展示多种形状：删掉对应表达，不能补拍假证据。
-- 如果客户无有效发言，改成 3s 真人客户动作 B-roll，用 Damon VO：We take notes on the details the buyer wants to confirm.
-- 如果团队没有参与记录/翻译，不说他们具体做了什么；只保留 My team is with us.
-- 如果客户未允许被识别，拍手部/背影/局部和非识别性远景；如国籍亦未授权则改 overseas buyer。
-- 语气上不是 “They approved the factory” / “They placed an order”。
-
-## 5. 中文理解
+## 5. 中文逐段理解
 
 | 时间 | 中文 |
 |---|---|
-| 0–5s | 今天我带着一位加纳客户，来中国临沂实地看一家食品包装工厂。 |
-| 5–10s | 我的团队也一起过来了。我们今天主要是现场看产品、了解情况、问清楚客户关心的问题。 |
-| 10–18s | 第一站仓库：看看成品实物以及实际包装情况。 |
-| 18–29s | 然后看生产线：亲眼看看工厂的生产现场，有问题可以现场和工厂沟通。 |
-| 29–39s | 到样品间，就能把不同规格、造型和可选款式放在一起看、一起比较。以现场真实样品为准。 |
-| 39–47s | 客户真实提问/团队跟进；Damon 可问：哪款你想再仔细看看？客户回答不提前编写。 |
-| 47–54s | 对我来说，采购不只是发几张产品照片，更是让买家实地看到产品、把问题问清楚。 |
-| 54–63s | 如果你也在中国找产品，告诉我你的需求，我可以帮你在临沂找到合适的切入点。 |
+| 00:00–00:07 | 今天我带一位加纳买家来中国临沂看一家餐盒工厂。 |
+| 00:07–00:18 | 我的团队也一起来了。海外买家来厂里，不只是看看机器，而是可以现场看真实产品、面对面提问题。 |
+| 00:18–00:34 | 先去仓库。这里能看到成品、外箱和包装形式，这些细节与实际订单的安排密切相关。 |
+| 00:34–00:50 | 然后看生产区域，了解工厂的实际生产现场，并就产品怎样生产提出问题。不过光看生产线，并不能回答采购中的所有问题。 |
+| 00:50–01:07 | 到样品间，规格、造型和包装选项就更容易放在一起比较。我们看现场真实展示的产品，讨论哪些更符合客户需要。 |
+| 01:07–01:16 | Damon 真实提问“哪款你想再仔细看看？”保留客户真实回答，不替客户编台词。 |
+| 01:16–01:28 | 我的作用是让这次参观更有效：协助沟通、解释产品选项，把做决定前还需要确认的问题整理出来。 |
+| 01:28–01:39 | 这就是我理解的本地采购代理服务。如果你也想在中国采购产品，把需求发给我，我帮你从临沂开始寻找。 |
 
-## 6. Visual Plan / 视觉结构
+## 6. Visual Plan / 视觉节奏
 
-核心主线：REAL BUYER ARRIVES → TEAM WALKS TOGETHER → WAREHOUSE → PRODUCTION LINE → SAMPLE ROOM → REAL QUESTIONS → DAMON SOURCING JUDGMENT.
+事件链：真实客户来到临沂 → Damon和团队陪同 → 仓库实物与包装 → 生产现场 → 样品间对比 → 买家真实提问 → 团队归纳问题 → 全品类sourcing CTA。
 
-| 时间 | 画面 / 动作 | 信息推进 | On-screen |
-|---|---|---|---|
-| 0–5s | Damon 和客户并肩走进工厂或客户拿起产品，第一帧真人+场景同框 | 有真正买家 | REAL BUYER, REAL FACTORY |
-| 5–10s | 团队自然走入画面，Damon 引导/团队交流 | 团队支持 | ON THE GROUND IN LINYI |
-| 10–18s | 客户在仓库看成品箱/产品、团队与其一起指产品 | 实物与包装 | 1 · WAREHOUSE |
-| 18–29s | 广角车间→客户观察线体→机器声/交谈特写 | 真实生产环境 | 2 · PRODUCTION |
-| 29–39s | 客户拿样品、对比、指某款，Damon回应 | 产品选择 | 3 · SAMPLE ROOM |
-| 39–47s | 客户真实问一句；团队/工厂人员回应（许可后） | 真问题 | WHAT DO YOU NEED TO CHECK? |
-| 47–54s | Damon和团队或客户同场但不排队站位，Damon真人一句总结 | 采购代理价值 | MORE THAN PRODUCT PHOTOS |
-| 54–63s | Damon面对镜头自然走动 CTA；其他人物可为背景 | 买家行动 | WHAT ARE YOU SOURCING? |
+- 第一帧：真人 + 真实现场 + 动作，拒绝模板式大门/合影开头。
+- 第一层推进：客户来了为什么值得进厂？用“亲眼看 / 当场问”回答。
+- 第二层推进：仓库不是空景展示，镜头重点是客户实际查看包装/货物。
+- 第三层推进：车间不用重述 V006 的吸塑工艺；镜头对着客户和工厂人员在生产线旁的互动。
+- 第四层推进：样品间出现真实选择（两款对比、指向规格、翻看产品、工厂解答）。
+- 情绪高潮：客户现场一句有价值的问题或真实反应；没有就不硬造。
+- 结尾观点：线下采购陪同的价值在于协助核实与沟通，而不是说“工厂很好”“客户非常满意”。
 
-注意 V006 已拍过“机器成型→包装→仓库”，V009 镜头切换的驱动力是客户真实动作而不是工艺详解。
+每段 AI VO 留出 0.5–1.5 秒自然声节点，尤其客户交流和车间机器声。
 
-## 7. Facts / Products Used
+## 7. Facts & Shoot-Day Verification
 
-### 已确认
+已确认（Damon）：
+- 今日计划带加纳客户与自己团队到临沂餐盒工厂碗汇。
+- 计划参观仓库、生产线、样品间。
+- V001–V003 已拍摄；V004–V008 还未拍摄，含 V006。
+- 工厂公共名称可省略。
 
-- Damon 于 2026-11-22 告知：当天计划带加纳客户和自己的团队访问临沂的餐盒工厂碗汇。
-- 计划参观：仓库、生产线、样品间。
-- 碗汇已知是生产食品餐碗的工厂；当前脚本默认不公开厂名。
-- 客户购买意向/实际下单、到访人数、具体 SKU、签约结果、检验结论均未提供，不能猜测。
+必须确认才能发布：
+- 客户是否授权露脸、公开 Ghana 身份、公开现场原声，以及将其画面用作账号宣传。
+- 团队/工厂人员拍摄许可。
+- 仓库实际看到什么、是否能够拍装箱和包装信息。
+- 生产线是否开机、客人实际提出了什么问题。
+- 样品间是否有可真实比较的规格/款式、产品准确名称。
+- 团队实际做过哪些动作（翻译/记录/协调/查规格），不预设工作发生。
+- 任何客户报价、订单、隐私、认证资料、工厂内部参数都不得随意展示。
 
-### 当天核实
-
-- 客户本人是否允许露脸、公开国籍、公开自己声音以及视频使用范围；
-- 工厂与团队人员是否允许露脸和声音；
-- 样品间具体有哪些真实产品、能否公开；
-- 生产线当天是否运行、拍摄范围/安全规则；
-- 仓库的成品和外箱哪些能拍、哪些信息需要遮挡；
-- 客户具体关心哪些规格/容量/应用场景；
-- 这次究竟做了哪些核验动作，哪些尚未涉及。
-
-### 绝对不能误写
-
-- 正式 factory audit、质量认证、客户验厂通过；
-- 客户已经下单、交定金、成为长期合作伙伴；
-- 未核实的标准、产能、出口国家、报价、MOQ、客户身份和订单规模；
-- Ghana 政策/环保法规作为本条宣传卖点；
-- 对客户作出未经许可的满意度/推荐背书；
-- 暗示供应商与澳强家三家自有工厂存在未确认的所有权关系。
+禁止断言：
+- 客户已下单 / 签合同 / 达成合作 / 高度满意。
+- 正式 factory audit passed / certified supplier / officially verified quality。
+- 未证实产能、出口能力、价格、MOQ、原料或食品接触标准。
+- Ghana 政策与监管结论。
+- 碗汇与澳强家三家自有工厂的未证实所有权关联。
 
 ## 8. CTA
 
-Type: Soft CTA / buyer sourcing service.
+Soft CTA · full-category sourcing:
+EN: If you're looking for products in China, send me what you need. I'll help you explore the options here in Linyi.
+CN: 如果你想在中国寻找产品，把需求告诉我，我帮你在临沂寻找合适的选择。
 
-主版 EN:
-If you're looking for products in China, tell me what you need. I'll help you find where to start in Linyi.
-
-中文：
-如果你也在中国找产品，告诉我你的需求，我帮你在临沂找到合适的切入点。
-
-现场短版：
-Tell me what you're sourcing. Let's see what we can find in Linyi.
-
-目标不是给食品餐盒卖家打广告，而是让海外买家知道 Damon 能组织真实在地看厂和采购沟通。
+现场口播结尾不必另拍，默认 AI VO + Damon 与客户继续看样/走出现场的画面。
+允许另一版本更短：Tell me what you're sourcing. Let's find out what Linyi has to offer.
 
 ## 9. Related Videos
 
-| 关联视频 | 本条如何区别 |
-|---|---|
-| V003 | V003 解释一站式展厅与自有工厂模式；V009 不谈所有权结构。 |
-| V005 | V005 是真实包装整箱价格与 MOQ；V009 不报价格。 |
-| V006 | V006 是碗汇食品餐碗生产工艺；V009 是带加纳真实客户看厂的服务过程。 |
-| V007 | V007 是 Damon 与设备商户问答；V009 是真实海外客户+团队+工厂三方现场。 |
-| V008 | V008 是二手农机市场的采购验证；V009 回到食品包装但核心角色与故事明显不同。 |
+- V001–V003：已拍摄，建立城市 / 市场 / 供应链基础认知；是否发布尚未获得确认。
+- V004–V008：仅 approved，不是已拍摄；其结构和分镜可供未来排期。
+- V006：虽然同是碗汇，但尚未拍摄，规划角度是“红白餐碗怎么生产”。
+- V009：唯一重点是海外客户+团队真实现场采购陪同，与制造说明不同。
 
 ## 10. Content Memory
 
-主题问题：What does an on-the-ground sourcing visit look like when an overseas buyer comes to Linyi?
+主问题：When an overseas buyer visits a real factory in Linyi, what happens beyond looking at machines?
 
-第一次出现的独特证据：来自加纳的真实买家 + Damon 团队 + 一次实地访问的三个场景；以真实询问/看样/记录为行动。
+独特证据：来自 Ghana 的真实买家（授权条件下）+ Damon 与团队的真实陪同 + 仓库 / 生产线 / 样品间三类实际场景 + 一段真实问题或选择。
 
-主镜头记忆：Damon/客户/团队同行；仓库客户看货；客户看生产线；客户在样品间拿样对比；真实提问；Damon总结。
+避免把“团队”只当集体合影，务必让成员自然出现：陪客户走、沟通、查资料、记问题（实际发生什么就拍什么）。
 
 ## 11. Do Not Repeat
 
-后续避免只把“带 X 国客户来工厂”换国家重拍相同仓库→车间→样品间三段。
-将来要拍不同客户，应引入真正不同的买家问题、看样选择、现场疑问、某个真实环节的突破、真实后续动作。
-不要持续用客户国籍作为唯一 Hook，也不能用客户合影代替采购证据。
+后续真实客户视频不得只换国籍，仍复制“仓库→产线→样品间”清单。
+未来应围绕具体不同 buyer mission：选款、比价、样品确认、包装测试、第三方验货、真实发货等，必须有事实证据。
 
 ## 12. Titles & Cover
 
-首推：
-EN: A Buyer From Ghana Visits a Food Packaging Factory in China
-CN: 加纳客户来到临沂，我们带他实地看餐盒工厂
+主标题 EN: A Buyer From Ghana Visits a Food Packaging Factory in China
+主标题 CN: 加纳客户来临沂看餐盒工厂，我和团队陪他看什么？
+备用 EN: What Happens When a Ghana Buyer Visits a Factory in China?
+备用 EN: Beyond Product Photos: A Real Factory Visit in Linyi
+封面主字：GHANA BUYER · REAL FACTORY VISIT
+副字：FOOD PACKAGING · LINYI, CHINA
+封面画面：客户（授权后）拿起真实样品、Damon与团队在旁讨论；有动作优于合影。
+未经身份/国籍发布许可：OVERSEAS BUYER · FACTORY VISIT。
 
-短标题：
-EN: What a Real Factory Visit Looks Like in Linyi
-CN: 海外买家在临沂实地看厂，是什么体验？
+## 13. Shot-by-Shot Board / 现场拍摄分镜
 
-备用：
-EN: From Ghana to Linyi: A Real Sourcing Visit
+| Shot | 建议成片时长 | 类型 | 人物 | 具体动作与任务 |
+|---|---:|---|---|---|
+| S1 | 5–8s | ON-CAMERA | Damon+客户（许可） | 进入厂区/样品间入口，Damon简短英文 Hook |
+| S2 | 4–5s | B-ROLL + NAT SOUND | 客户+团队 | 同行、询问、互相指产品，录原声 |
+| S3 | 5s | B-ROLL + AI VO | 仓库+人物 | 广角证明仓库环境，客户看货 |
+| S4 | 5–7s | ON-CAMERA ACTION + AI VO | 客户+团队 | 看成品、纸箱、样品、包装；只拍真的看到的 |
+| S5 | 5s | B-ROLL + NAT SOUND | 客户+线体 | 安全距离观察开机线体，保留机器声 |
+| S6 | 5–7s | B-ROLL + AI VO | 客户+工厂人员 | 听工厂讲解、客户看设备；不长篇讲工艺 |
+| S7 | 5–6s | ON-CAMERA ACTION | 客户+Damon | 进入样品间，客户拿起样品 |
+| S8 | 6–8s | B-ROLL + AI VO | 客户+团队 | 两种真实款式对比，镜头贴近双手和细节 |
+| S9 | 4–7s | REAL DIALOGUE + NAT SOUND | 客户+Damon/团队 | 采集一个真实买家问题及真实回答 |
+| S10 | 6–8s | B-ROLL + AI VO | Damon+团队 | 记录要点、交流后续确认（确实发生才拍） |
+| S11 | 7–10s | B-ROLL + AI VO | Damon+客户/环境 | AI VO观点+CTA，人物边走边谈；最后停留一个自然真实动作 |
 
-封面：
-主大字：GHANA BUYER VISITS A FACTORY
-副标题：LINYI, CHINA · FOOD PACKAGING
+### 现场最好问的 5 个问题
 
-画面：客户（获得授权）在样品间真实拿起碗/盒，Damon在旁边解释，团队至少一人自然入画；优先用动作帧而不是握手合影。
-未获公开国籍许可时：OVERSEAS BUYER · FACTORY VISIT。
+Damon 对客户（英文，自然问，不要让客户背台词）：
+1. What would you like to check first? / 你最想先看什么？
+2. Which size are you looking for? / 你想要什么尺寸？
+3. Would you like to compare these two? / 你想对比这两款吗？
+4. Is there anything you'd like to ask the factory? / 有什么想直接问工厂的吗？
+5. Which one should we take a closer look at? / 哪款我们再仔细看看？
 
-## 13. Shot-by-Shot Production Board
+如果听起来太机械，不要一口气问五个。选 1–2 个真实相关的，捕捉对方自然回答。
 
-| Shot | 时长 | Delivery | 谁出镜 | 动作 / 构图 | 声音/任务 |
-|---|---:|---|---|---|---|
-| S1 | 3–5s | ON-CAMERA + ACTION | Damon+客户 | 并肩走入或客户拿样，第一帧清楚是两个人在做事 | Hook 同步口播 |
-| S2 | 3–4s | B-ROLL + NAT SOUND | 团队+客户 | 自然跟拍讨论/进入仓库 | 现场声 |
-| S3 | 4–5s | B-ROLL + VO | 客户/团队 | 仓库广角+客户查看成品区 | warehouse VO |
-| S4 | 4–5s | ON-CAMERA ACTION | 客户+Damon | 客户看一箱或一种实际包装，Damon指实际产品 | buyer checks |
-| S5 | 4–5s | B-ROLL + NAT SOUND | 客户+生产线 | 客户与机器安全同框，保留机器声 | machine ambience |
-| S6 | 5–6s | B-ROLL + VO | 客户/团队/车间 | 生产线广角+客户听工厂人员介绍 | line VO |
-| S7 | 5–6s | ON-CAMERA ACTION | 客户+Damon | 样品间客户拿起两款实际样品比较/指差异 | sample-room VO |
-| S8 | 5–6s | REAL DIALOGUE | 客户+Damon+团队可选 | 真实问答一句，不编客户台词 | buyer answer / eng subs |
-| S9 | 5–6s | ON-CAMERA | Damon | 总结“sourcing is more than sending photos”，团队在背景做事 | judgment |
-| S10 | 6–8s | ON-CAMERA | Damon | 走动 CTA，保持工厂真实背景 | CTA |
-
-### 现场建议的真问题（不预写回答）
-
-Damon 对加纳客户可问：
-- What are you looking for today?
-- Which size would work better for your market?
-- Is there anything you'd like to check on the line?
-- Which sample should we take a closer look at?
-
-Damon 对工厂人员可问：
-- 这两个样品的区别是什么？
-- 这个型号在哪条线上生产？（只有实际涉及该型号时）
-- 客户刚提到的规格，今天可以现场看到吗？
-- 这个包装信息可以公开拍吗？
-
-Team can naturally translate, compare, jot notes or communicate, but only show actions that actually happen.
+工厂人员中文问题示例（依客户实际需求选）：
+- 这两个产品具体区别是什么？
+- 客户刚才问的那个规格，样品间有没有实物？
+- 这款当天在哪个车间生产？（只有真正能确认时使用）
+- 包装怎么装箱？这款今天能看实际包装吗？
 
 ## 14. Publishing Caption
 
-English:
-Today I brought a buyer from Ghana to visit a food packaging factory in Linyi, China, together with my team.
+EN:
+A buyer from Ghana came to Linyi, China, and my team joined the factory visit. It's one thing to see food packaging products in photos. It's another to walk through the warehouse, see the production area, and compare actual samples in person.
 
-We walked through the warehouse, looked at the production environment, and compared samples in person. The important part of a factory visit isn't just seeing the machines. It's being able to look closely, ask questions, and understand what you're sourcing.
+For me, the most useful part is the conversation: what matters to this buyer, what we can see today, and what we still need to confirm before any decision.
 
-That's what on-the-ground sourcing support looks like here in Linyi.
+That's what sourcing on the ground looks like.
 
-Tell me what products you're looking for, and I'll help you find where to start.
+What are you sourcing from China?
 
-中文理解：
-今天我和团队陪同加纳客户实地走访临沂一家食品包装工厂。我们去仓库看成品和包装，到生产现场了解工厂实际情况，再在样品间一起看样比较。这次最重要的不是展示设备，而是让海外买家真正看到货、提出问题、当场交流。
+CN:
+一位来自加纳的客户来到临沂，我和团队一起陪他实地看食品包装工厂。图片只能介绍产品，到仓库、车间和样品间走一遍，才能看见真实的产品与现场情况。更重要的是客户关心什么、现场能确认什么、还有哪些问题需要继续跟进。
+
+最终 caption 按真实已发生画面调整，不能把“计划参观”写成完成结果。
 
 Short caption:
-From Ghana to Linyi — seeing real products, real production, and real samples together.
-
-注意：发布前按最终实际拍摄顺序修改 walked through / looked at / compared，不能写未发生的动作。
+Real buyer. Real factory visit. Real questions — here in Linyi, China.
 
 ## 15. Hashtags
 
-固定：
-#Linyi #LinyiSourcing #BuyAgent #ChinaSourcing #SourcingAgent
-
-本期：
-#FactoryVisit #FoodPackaging
-
-合并：
 #Linyi #LinyiSourcing #BuyAgent #ChinaSourcing #SourcingAgent #FactoryVisit #FoodPackaging
 
 ## 16. Shoot & Edit Checklist
 
-### 入厂前与许可
-- [ ] 问客户：是否允许公开视频中露脸、提及 Ghana、保留原声、用视频推广 Damon sourcing 服务；如不同意则采用匿名/非识别画面和 neutral wording。
-- [ ] 告知团队和工厂人员拍摄用途，取得相应露脸/声音许可。
-- [ ] 核对仓库、生产线、样品间现场是否可进入拍摄。
-- [ ] 尊重工厂安全规则，不要求工人/客户为了镜头做危险动作。
-- [ ] 不在厂内公开客户名片、电话、微信、私密聊天、询价单、报价、订单、客户箱唛、仓库客户标签。
-- [ ] 不把“客户考察工厂”升级成“正式审厂/认证通过”。
+### 拍摄前
+- [ ] 客户明确授权：是否露脸、公开 Ghana、保留声音、用于视频宣传；拒绝时匿名/不公开身份/不使用客户真人可识别画面。
+- [ ] 团队/工厂员工拍摄许可；工厂允许的场景和角度明确。
+- [ ] 真人英文只需一条开头，现场连拍 2–3 次不同自然站位即可；不用背后半段。
+- [ ] 提前找能让客户+Damon+工厂场景同时入画的安全机位。
+- [ ] 若客户不愿意公开国籍，英文 Hook 改为 overseas buyer。
 
-### 到现场优先拍
-- [ ] Damon + 客户 + 场景一个连续 Hook（无需握手摆拍）。
-- [ ] 团队至少一个真实参与动作（解释/记录/拿样/协助）。
-- [ ] 仓库：客人看实物 + 包装区广角 + 一种成品近景。
-- [ ] 生产线：客户站安全位置观察 + 机器运行声 8–12 秒。
-- [ ] 样品间：客户真实拿样/对比/指产品 + 两种产品近景（如有）。
-- [ ] 真实问答至少一组；对方不愿出声可以改成手势和 B-roll。
-- [ ] 如果有真实的意外发现（尺寸/用途/包装差异），允许改成更强叙事点，但不得编造。
-- [ ] 结尾 Damon 一个 6–8 秒全品类 CTA。
+### 到现场
+- [ ] 先拍 Damon 的英文 Hook + 客户/团队自然同行。
+- [ ] 每个区域至少拍：环境广角、客户与团队行动中景、产品/机器细节特写。
+- [ ] 仓库重点是客户看什么，不能只拍库存墙。
+- [ ] 生产区拍工厂真实环境和客户提问；确保安全，不重复 V006 拍制造步骤。
+- [ ] 样品间优先拍真实对比动作，最少得到客户手拿样品的一组近景。
+- [ ] 收一段有信息量的真实问答（1 问 1 答），但对方不同意保留原声就删。
+- [ ] 客户/团队自然聊天声、脚步声、机器声分开留 5–10 秒，方便剪辑。
+- [ ] 如果出现客户感兴趣的真实细节，优先围绕它剪，别强塞每一段旁白。
 
-### 剪辑与发布
-- [ ] 前 2 秒就看到客户与 Damon 的互动，而不是机器空镜。
-- [ ] 单条 55–65 秒；有精彩真问答可适度放宽，不为凑时长保留无效镜头。
-- [ ] 英文字幕全程；中文工厂人员回答加准确英文字幕；加纳客户英文原声可保留。
-- [ ] 每 6–8 秒有新动作/新问题/新信息。
-- [ ] 只保留与客户实际问题有关的生产线镜头，不重复 V006 的制造说明。
-- [ ] 对客户身份、电话、单据、客户箱唛、内部成本及敏感细节遮挡。
-- [ ] 绝不声称已签约、已下单、已通过正式验厂、客户满意/推荐，除非当场发生且有发布许可。
-- [ ] 与客户确认发布方式；如果不愿被用于推广，则不要将可识别画面放进宣传视频。
+### AI 英文配音
+- [ ] 只为 Damon/旁白角色使用 AI VO；不要克隆客户或工厂人员声音（除非另有明确授权）。
+- [ ] 选自然、中性、清晰英文声线；不用假装客户来自 Ghana 的口音。
+- [ ] 约 130–145 英文词/分钟作初剪基准，按实际素材微调。
+- [ ] 每段 VO 配对应发生的画面，避免旁白比画面承诺更多。
+- [ ] 现场真实声和 VO 之间留空间，尤其客户问答、机器声。
+- [ ] 对专有名词、Linyi、Ghana、型号等做人工发音核对。
+- [ ] 英文字幕全程；如现场有中文工厂原声，添加准确英文字幕。
+
+### 隐私 / 发布前
+- [ ] 客户身份、公司、名片、号码、私人微信/WhatsApp、订单单据、付款及报价单、仓库箱唛必要时避拍或打码。
+- [ ] 不能暗示已成交、已签约、已通过正式验厂、客户满意保证。
+- [ ] 若现场未看某区域，直接剪掉或改述；不补造客户交谈与生产事实。
+- [ ] 确认场地最终可公开视频后发布；不公开厂名不等于可以忽略工厂拍摄许可。
+- [ ] 发布后记录平台、发布时间、时长、观看表现、询盘与评论问题到 04_performance/videos.md。
 
 ## 17. Approval Gate
 
-- Damon 需确认主视角和是否希望公开 Ghana 客户身份/国籍。
-- 客户真实许可、真实谈话、具体型号、仓库/车间/样品内容均在现场采集后决定成片。
-- Approval by Damon only transitions draft → approved; it does not mean filmed/published.
+- 2026-11-22 Damon 指定：英文真人开场 + 后续 AI 配音；内容更丰富。
+- 本稿 status 保持 draft，等待 Damon 是否最终批准。
+- 当天实际客户许可、行程顺序、产品与对话以真素材为准，不预写结果。
