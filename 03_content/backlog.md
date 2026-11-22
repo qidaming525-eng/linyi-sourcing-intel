@@ -29,13 +29,15 @@
 
 ---
 
+> **2026-11-22 拍摄进度核实：** Damon 确认仅 V001–V003 已拍摄（shot）；V004–V008 均为 approved 但尚未拍摄；V009 是当日计划拍摄的 draft。已拍摄不等于已发布，发布时间和播放数据目前无证据。历史条目中的 approved 保留其当时审批记录，但不代表已完成拍摄。
+
 ## V001
 
 **You've Heard of Yiwu. But Have You Heard of Linyi?**
 **你听说过义乌，但你听说过临沂吗？**
 
 - pillar: `city-awareness`
-- status: `approved`（2026-09-17 批准）
+- status: `shot`（2026-09-17 批准；Damon 于 2026-11-22 确认已拍摄，拍摄日期/发布情况未提供）
 - 定稿脚本：`03_content/scripts/V001-why-linyi.md`
 - 拍摄地点：中国酒店用品商城
 
@@ -45,7 +47,7 @@
 **临沂酒店用品市场，到底能买到什么？**
 
 - pillar: `market / product-discovery`
-- status: `approved`（2026-09-18 批准）
+- status: `shot`（2026-09-18 批准；Damon 于 2026-11-22 确认已拍摄，拍摄日期/发布情况未提供）
 - 定稿脚本：`03_content/scripts/V002-linyi-hotel-supplies-market.md`
 - 拍摄地点：中国酒店用品商城
 - 核心角度：快速展示一次性用品、奶茶设备、咖啡设备、商用厨房设备、餐具、瓷具，回答 **What can I actually source here?**
@@ -57,7 +59,7 @@
 **一个展厅，三家自有工厂——临沂一次性食品包装的一站式模式**
 
 - pillar: `product / sourcing / factory-trade-integration`
-- status: `approved`（2026-09-20 批准）
+- status: `shot`（2026-09-20 批准；Damon 于 2026-11-22 确认已拍摄，拍摄日期/发布情况未提供）
 - 定稿脚本：`03_content/scripts/V003-one-showroom-three-factories.md`
 - 拍摄地点：澳强家超级展厅（`SUP-PACK-001`）
 - **核心事实（Damon 2026-09-20 明确确认）**
@@ -177,14 +179,16 @@
 **加纳客户来到临沂，我们带他实地看餐盒工厂**
 
 - pillar: `buyer-mission / real-client-visit / trust`
-- status: `draft`（2026-11-22 新增，待 Damon 最终批准）
+- status: `draft`（2026-11-22 修改为英文真人开场 + AI 英文配音增强版，待 Damon 最终批准）
+- target_length: 85–100s（按现场素材调整）
+- delivery: Damon 5–8s 真人英文开场 → AI 英文旁白讲故事 → 客户/工厂真实交流和现场声 → AI 配音 CTA
 - 草稿脚本：`03_content/scripts/V009-ghana-buyer-factory-visit.md`
 - 拍摄日期：计划 2026-11-22 下午（中国本地时间）
 - 拍摄地点：碗汇工厂（SUP-PACK-002），仓库 + 生产线 + 样品间；公开片可不提工厂名
 - 人物：Damon + 来自 Ghana 的客户 + Damon 团队；工厂人员视真实许可参与
 - 核心问题：**What does a real on-the-ground sourcing factory visit look like for a buyer from Ghana?**
-- 核心结构：客户到厂 + 团队同行 → 看仓库实物 → 看生产线真实场景 → 样品间对比 → 客户真实问题 → Damon sourcing CTA（顺序以现场为准）。
-- 与 V006 区分：**买家和团队的实际采购动作是主体**；不再重复碗汇生产工艺教程。
+- 核心结构：Damon 真人英文开头 → 客户与团队同行 → 仓库看成品/包装 → 生产线看实际环境 → 样品间对比 → 客户真实问题 → AI VO 展示团队陪同的工作价值与 sourcing CTA（顺序以现场为准）。
+- 与 V006 区分：**V006 尚未拍摄**，它的规划角度是制造工艺；V009 聚焦真实海外客户、团队和采购服务现场，不重复制造工艺教程。
 - 边界：身份/国籍/声音发布须客户许可；工厂拍摄许可；无未确认价格、MOQ、认证、检验结论、成交承诺等。
 
 
