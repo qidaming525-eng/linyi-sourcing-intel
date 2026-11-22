@@ -3,11 +3,13 @@
 > 定稿脚本 / Approved production package. 正文由 ChatGPT 撰写并经 Damon 于 2026-09-20 批准。
 > 入库流程与状态定义见 `03_content/scripts/README.md`。
 
+> Filming progress correction recorded on 2026-11-22: Damon confirmed this episode has been filmed. Exact filming date and publication status are not verified.
+
 ## 1. Metadata
 
 ```yaml
 video_id: V003
-status: approved
+status: shot
 title_en: "One Showroom. Three Factories. How Food Packaging Sourcing Works in Linyi"
 title_cn: "一个展厅，三家工厂：临沂一次性食品包装的一站式模式"
 pillar: product / sourcing / factory-trade-integration
